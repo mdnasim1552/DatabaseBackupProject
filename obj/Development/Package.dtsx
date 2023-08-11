@@ -1,0 +1,661 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="8/8/2023 12:43:15 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="DESKTOP-J4FOB23"
+  DTS:CreatorName="DESKTOP-J4FOB23\mdnas"
+  DTS:DTSID="{C9872D5B-C9FC-40E6-A784-8BEC117837D8}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.170"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionBuild="35"
+  DTS:VersionGUID="{742BC381-9AD2-4687-8EF3-11F778BDB70F}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[203.202.249.116.ASITINTERIORDB.sa]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{55E01003-551E-4529-8BD8-F9E04353D788}"
+      DTS:ObjectName="203.202.249.116.ASITINTERIORDB.sa">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=203.202.249.116;User ID=sa;Initial Catalog=ASITINTERIORDB;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABJsJ3p2wquqVcadnJ7F4kdjdGlh4rP2WVUCjjh4LKrjQAAAAAOgAAAAAIAACAAAACDwNiJGGk3Iom3fWJmE53cl206Kejp6HF48WMzIOvvmzAAAAA78Qh5ufbzqhv9vLJiAQ4rfb6FqTRpoCcj/8usIzoAiHIWKQQe/WsQ+q8dzGslf15AAAAAQ1dFdEQCvskGFG2XAFNpr4b2uBP2UxcKPv0Zq4eMhcaLerZOxaH9UWX+hx1QERhjVNqp9ElqSGLPQQeUAikA2g</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[203.202.249.116.ASITINTERIORDBACC.sa]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{E710F214-3918-442C-83C2-18839715FE6B}"
+      DTS:ObjectName="203.202.249.116.ASITINTERIORDBACC.sa">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=203.202.249.116;User ID=sa;Initial Catalog=ASITINTERIORDBACC;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABrNb3HsSd52bE4rRRKCk4+XjbR0StXbJKnjEFi6Gy0oAAAAAAOgAAAAAIAACAAAABg8d2JZlt3Sugw1cMyCSEwmBMymzPzcqxVVX4FKGhV1TAAAABCOp8O2eYJVi6j5NahXhXKSkA/Owep9I5YmSM+DdhZ4QAR9xHNqLDjtbNADrnl4UJAAAAAgVip9YzEX6OUePi+K5vGtQ/XPbL2pdSjU2dVO0yUf18rHyzQuR5aVGhNq0fpgAEMqWNlb+KpoEJ6ut4Gh0DvJA</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Assure_59.152.62.9\MSSQL2K14.ASITINTERIORDB.sa]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{9E28D321-3A9C-43CE-AA75-615E59334D94}"
+      DTS:ObjectName="Assure_59.152.62.9\MSSQL2K14.ASITINTERIORDB.sa">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=59.152.62.9\MSSQL2K14;User ID=sa;Initial Catalog=ASITINTERIORDB;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA8eXJ+5XGENFYhcC98Kz4IGaPPAj6p98mFcAXYuFmpTgAAAAAOgAAAAAIAACAAAAAV6876cLsmPHW3nNkjn/67JzMilZo8Md/sn+bhs61sOyAAAACTccfqZ2OUNiFemDpetk/ZmoukEWpm1EhfkNEG3g/IlkAAAAA167yn0ndGbuvj09x1Zaj7s2oeceTxcWqmbZi3SIq5u/pMDP2JG9pFv9KdYIp3WXNBJh25NVyw1o1Bc/YOWMp+</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[FinlayERP203.202.249.116.ASITINTERIORDB.sa]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{3268783B-8FFB-41F6-B45D-2C58C2426B11}"
+      DTS:ObjectName="FinlayERP203.202.249.116.ASITINTERIORDB.sa">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=203.202.249.116;User ID=sa;Initial Catalog=ASITINTERIORDB;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAemRtUvkiPun8lTZqmJDUXByfCMBkwBeNnQT9FM2ec7gAAAAAOgAAAAAIAACAAAACvZVmya0K0zs7E2bQCDHnXuGl1/OLhQSyAvLzPIuZHvjAAAAC6ChGV5eZOhIZ4EJvTfpivE411LNDTpPec24u/hdi04hcptbcfAqLX/SXb8KGUUqVAAAAA3qz++P2Y6qTzAtcjA31r9KCSnHg7doYwuDEfn0N9bxd3uLKk/YaPZuQFzqaAUuQptqYNh8p/c/t47025nREx2A</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[FTP_CON_ASSURE]"
+      DTS:CreationName="FTP"
+      DTS:DTSID="{6CFE399D-F5D2-458C-B01E-BED2B89B8DDD}"
+      DTS:ObjectName="FTP_CON_ASSURE">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="59.152.62.9:21">
+          <DTS:FtpConnection
+            DTS:ServerName="59.152.62.9"
+            DTS:ServerUserName="ptl">
+            <DTS:Property
+              DTS:Name="ServerPassword"
+              Sensitive="1"
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB4kJmGBssJZP4+YgXBOBM+rFc0+xugP4ohUS0/CRnYoQAAAAAOgAAAAAIAACAAAAD7G5GO+pC5c3XQtvjqAIQje9Ge89l1Kk9N5C9rmkqIHBAAAABx3X5iAFX2hFn3u3y1mFxnQAAAALG8f4RJHPYCN02BOyzrqFUGEx6IIEpxhPB9NtwgX7Mcht1/qt9JJSfU46LA8Nhf0wH1Vy6Jl7RMSUOddpi6TzI</DTS:Property>
+          </DTS:FtpConnection>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[FTP_CON_Finlay]"
+      DTS:CreationName="FTP"
+      DTS:DTSID="{DB340C17-6DF5-4F63-8F50-C6C716A6C50B}"
+      DTS:ObjectName="FTP_CON_Finlay">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="203.202.249.116:21">
+          <DTS:FtpConnection
+            DTS:ServerName="203.202.249.116"
+            DTS:ServerUserName="ptl">
+            <DTS:Property
+              DTS:Name="ServerPassword"
+              Sensitive="1"
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADIbSYGnoxUfSJls+ToZErXOLVA8hyS4N2Oxq32CWRhVQAAAAAOgAAAAAIAACAAAADFgsilNn1wYqFv8wsIkHvEdwPdOkD1xQmoFVbh6tyJ9hAAAACMSEQdACH0HHgJj3j9RsDSQAAAAES+KLqOmQg1Uq9n74WRf+VATBgagLMrz/wFKUePgJhHZHl1khyl1F92zxPKLi0un0CfMcXlJOcmBWhjPvADGO8</DTS:Property>
+          </DTS:FtpConnection>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[FTP_CON_PTL]"
+      DTS:CreationName="FTP"
+      DTS:DTSID="{262EFDDE-AE7C-4902-97DC-9C7E886F7A68}"
+      DTS:ObjectName="FTP_CON_PTL">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="123.200.23.58:21">
+          <DTS:FtpConnection
+            DTS:ServerName="123.200.23.58"
+            DTS:ServerUserName="ftp-users">
+            <DTS:Property
+              DTS:Name="ServerPassword"
+              Sensitive="1"
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACNVmCXwlMNmW1EmWcCwghUlqkJMncKNNe11ifYLyP3yAAAAAAOgAAAAAIAACAAAACsNqVT5G8HvGK319TfeApa3fEVAHzwVygQ/7Jd8/iqLiAAAADoHBKTpQ+iCq8emBTRjZpahE2W9imbZs2PXw2LWGUOiUAAAABNBL9cM1fpmHyDcFRQp/8FqBhgO7X6X0dTGhknj4Lv2YS8aa3ExA0I+oJPQ4/EU5xWfcaOOPbGUNSuT/r9UixB</DTS:Property>
+          </DTS:FtpConnection>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{1EA6AF38-FD70-4CE6-B947-EAD6629A44EC}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="&quot;/Nasim/&quot;+&quot;ASITINTERIORDB&quot;+(DT_WSTR, 4) YEAR(GETDATE()) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) MONTH(GETDATE()), 2) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) DAY(GETDATE()), 2)+&quot;.txt&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="CurrentYear">
+      <DTS:VariableValue
+        DTS:DataType="8">/Nasim/ASITINTERIORDB20230811.txt</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{7B4514F2-C359-4775-B08E-EF40D314AB25}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="LocalPathVariableAssure">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Users\mdnas\OneDrive\Desktop\ZipFolder\Assure</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{33A7384D-5168-44A4-B3EE-3E5975C61498}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="LocalPathVariableFinlayAcc">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Users\mdnas\OneDrive\Desktop\ZipFolder\Finlay\ACC</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{9DD67555-E8CE-4038-B7EB-F639A081A972}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="LocalPathVariableFinlayERP">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Users\mdnas\OneDrive\Desktop\ZipFolder\Finlay\ERP</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{E25CE6E8-613A-41E7-A958-70CF4CD0C392}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="&quot;/Nasim/&quot;+&quot;ASITINTERIORDB&quot;+(DT_WSTR, 4) YEAR(GETDATE()) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) MONTH(GETDATE()), 2) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) DAY(GETDATE()), 2)+&quot;.txt&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="RemotePathVariable">
+      <DTS:VariableValue
+        DTS:DataType="8">/Nasim/ASITINTERIORDB20230811.txt</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{EC302A6B-84D9-4023-9ECB-7BB868DF405C}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="&quot;/Zip_Files/&quot;+&quot;ASITINTERIORDB&quot;+(DT_WSTR, 4) YEAR(GETDATE()) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) MONTH(GETDATE()), 2) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) DAY(GETDATE()), 2)+&quot;.zip&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="RemotePathVariableAssure">
+      <DTS:VariableValue
+        DTS:DataType="8">/Zip_Files/ASITINTERIORDB20230811.zip</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{C7B92A10-9C8C-4180-A6A4-BFCED7ADD79C}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="&quot;/ZIP_PATH_ACC/&quot;+&quot;ASITINTERIORDBACC&quot;+(DT_WSTR, 4) YEAR(GETDATE()) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) MONTH(GETDATE()), 2) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) DAY(GETDATE()), 2)+&quot;.zip&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="RemotePathVariableFinlayAcc">
+      <DTS:VariableValue
+        DTS:DataType="8">/ZIP_PATH_ACC/ASITINTERIORDBACC20230811.zip</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{8B082443-2C77-49FB-ACC2-7A123F77B778}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="&quot;/ZIP_PATH_ERP/&quot;+&quot;ASITINTERIORDB&quot;+(DT_WSTR, 4) YEAR(GETDATE()) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) MONTH(GETDATE()), 2) + RIGHT(&quot;0&quot; + (DT_WSTR, 2) DAY(GETDATE()), 2)+&quot;.zip&quot;"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="RemotePathVariableFinlayERP">
+      <DTS:VariableValue
+        DTS:DataType="8">/ZIP_PATH_ERP/ASITINTERIORDB20230811.zip</DTS:VariableValue>
+    </DTS:Variable>
+  </DTS:Variables>
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Assure"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:DTSID="{9E7C1793-7D02-4E3C-A5EB-F8F02C443B85}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Assure">
+      <DTS:Variables />
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\Assure\Execute SQL Task"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{A36180FE-A3AA-418B-9243-77D698EE8AE0}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Execute SQL Task"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="0">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{9E28D321-3A9C-43CE-AA75-615E59334D94}"
+              SQLTask:SqlStatementSource="exec BackupAndZipProcedure '3316'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Assure\FTP Task"
+          DTS:CreationName="Microsoft.FtpTask"
+          DTS:Description="FTP Task"
+          DTS:DTSID="{562D5EBD-F0B2-42A5-89CD-4E2E9C69BF46}"
+          DTS:ExecutableType="Microsoft.FtpTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="FTP Task"
+          DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="0">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <FtpData
+              ConnectionName="{6CFE399D-F5D2-458C-B01E-BED2B89B8DDD}"
+              TaskOperationType="Receive"
+              TaskIsLocalPathVar="True"
+              TaskLocalPath="User::LocalPathVariableAssure"
+              TaskIsRemotePathVar="True"
+              TaskRemotePath="User::RemotePathVariableAssure"
+              TaskOverwriteDest="True" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+      </DTS:Executables>
+      <DTS:PrecedenceConstraints>
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Assure.PrecedenceConstraints[Constraint]"
+          DTS:CreationName=""
+          DTS:DTSID="{79CCE68C-FC51-4EEC-8F24-A4DB2E2E5450}"
+          DTS:From="Package\Assure\Execute SQL Task"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint"
+          DTS:To="Package\Assure\FTP Task" />
+      </DTS:PrecedenceConstraints>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Finlay ACC"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:DTSID="{4B7CEBED-D5E5-4209-83D2-02CA198B18DE}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Finlay ACC">
+      <DTS:Variables />
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\Finlay ACC\Execute SQL Task"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{10DCC177-9922-4782-99A1-AE73ECDC01BA}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Execute SQL Task"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{E710F214-3918-442C-83C2-18839715FE6B}"
+              SQLTask:SqlStatementSource="exec BackupAndZipProcedure '3373'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Finlay ACC\FTP Task"
+          DTS:CreationName="Microsoft.FtpTask"
+          DTS:Description="FTP Task"
+          DTS:DTSID="{ED37B935-2468-4D2C-BCC3-805D36FBF97D}"
+          DTS:ExecutableType="Microsoft.FtpTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="FTP Task"
+          DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <FtpData
+              ConnectionName="{DB340C17-6DF5-4F63-8F50-C6C716A6C50B}"
+              TaskOperationType="Receive"
+              TaskIsLocalPathVar="True"
+              TaskLocalPath="User::LocalPathVariableFinlayAcc"
+              TaskIsRemotePathVar="True"
+              TaskRemotePath="User::RemotePathVariableFinlayAcc"
+              TaskOverwriteDest="True" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+      </DTS:Executables>
+      <DTS:PrecedenceConstraints>
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Finlay ACC.PrecedenceConstraints[Constraint]"
+          DTS:CreationName=""
+          DTS:DTSID="{103161EC-3896-4E75-933D-10620F3BF297}"
+          DTS:From="Package\Finlay ACC\Execute SQL Task"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint"
+          DTS:To="Package\Finlay ACC\FTP Task" />
+      </DTS:PrecedenceConstraints>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Finlay ERP"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:DTSID="{DE71F609-2C8E-4FB7-B2D7-DCB8AC23DA32}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Finlay ERP">
+      <DTS:Variables />
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\Finlay ERP\Execute SQL Task"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{364A104A-76AC-4A26-A164-4649FE0797B6}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Execute SQL Task"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{3268783B-8FFB-41F6-B45D-2C58C2426B11}"
+              SQLTask:SqlStatementSource="exec BackupAndZipProcedure '3368'" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Finlay ERP\FTP Task"
+          DTS:CreationName="Microsoft.FtpTask"
+          DTS:Description="FTP Task"
+          DTS:DTSID="{B0A3FC80-D872-483D-91AA-3630BF6ABD4A}"
+          DTS:ExecutableType="Microsoft.FtpTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="FTP Task"
+          DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <FtpData
+              ConnectionName="{DB340C17-6DF5-4F63-8F50-C6C716A6C50B}"
+              TaskOperationType="Receive"
+              TaskIsLocalPathVar="True"
+              TaskLocalPath="User::LocalPathVariableFinlayERP"
+              TaskIsRemotePathVar="True"
+              TaskRemotePath="User::RemotePathVariableFinlayERP"
+              TaskOverwriteDest="True" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+      </DTS:Executables>
+      <DTS:PrecedenceConstraints>
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Finlay ERP.PrecedenceConstraints[Constraint]"
+          DTS:CreationName=""
+          DTS:DTSID="{C97C18ED-B490-4DC1-876D-AA8E8D79C61E}"
+          DTS:From="Package\Finlay ERP\Execute SQL Task"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint"
+          DTS:To="Package\Finlay ERP\FTP Task" />
+      </DTS:PrecedenceConstraints>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Sequence Container 3"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:Disabled="True"
+      DTS:DTSID="{887D2CFD-4A71-4519-BE45-F6DBCE1CFC37}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Sequence Container 3">
+      <DTS:Variables />
+      <DTS:Executables />
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Sequence Container 4"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:Disabled="True"
+      DTS:DTSID="{F2073868-88CD-420A-B3EE-4BFA784E772B}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Sequence Container 4">
+      <DTS:Variables />
+      <DTS:Executables />
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Sequence Container 5"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:Disabled="True"
+      DTS:DTSID="{0FE75DD2-0B23-457B-8E9A-327EAD39EFA0}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Sequence Container 5">
+      <DTS:Variables />
+      <DTS:Executables />
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Sequence Container 6"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:Disabled="True"
+      DTS:DTSID="{C387A7EA-F8A7-40CD-B34A-EE900167E23F}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Sequence Container 6">
+      <DTS:Variables />
+      <DTS:Executables />
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{044BB080-3278-4C67-823C-5837CA94FB10}"
+      DTS:From="Package\Finlay ERP"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\Finlay ACC" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="170,42"
+          Id="Package\Finlay ERP\Execute SQL Task"
+          TopLeft="54,10" />
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Finlay ERP\FTP Task"
+          TopLeft="80,102" />
+        <EdgeLayout
+          Id="Package\Finlay ERP.PrecedenceConstraints[Constraint]"
+          TopLeft="141.25,52">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,50"
+              Start="0,0"
+              End="0,42.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,42.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="258,199"
+          Size="258,242"
+          Id="Package\Finlay ERP"
+          TopLeft="280,57" />
+        <NodeLayout
+          Size="170,42"
+          Id="Package\Finlay ACC\Execute SQL Task"
+          TopLeft="40,8" />
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Finlay ACC\FTP Task"
+          TopLeft="58,93" />
+        <EdgeLayout
+          Id="Package\Finlay ACC.PrecedenceConstraints[Constraint]"
+          TopLeft="123.25,50">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,43"
+              Start="0,0"
+              End="0,35.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,35.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="241,197"
+          Size="241,240"
+          Id="Package\Finlay ACC"
+          TopLeft="546,59" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="205,55"
+          Size="205,98"
+          Id="Package\Sequence Container 3"
+          TopLeft="813,79" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="205,55"
+          Size="205,98"
+          Id="Package\Sequence Container 4"
+          TopLeft="1072,80" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="205,103"
+          Size="205,146"
+          Id="Package\Sequence Container 5"
+          TopLeft="248,351" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="205,55"
+          Size="205,98"
+          Id="Package\Sequence Container 6"
+          TopLeft="815,212" />
+        <NodeLayout
+          Size="170,42"
+          Id="Package\Assure\Execute SQL Task"
+          TopLeft="26,7" />
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Assure\FTP Task"
+          TopLeft="41,101.5" />
+        <EdgeLayout
+          Id="Package\Assure.PrecedenceConstraints[Constraint]"
+          TopLeft="107.75,49">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,52.5"
+              Start="0,0"
+              End="0,45">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,45" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="239,198"
+          Size="239,242"
+          Id="Package\Assure"
+          TopLeft="28,56" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="409,57">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="257.5,2"
+              Start="0,0"
+              End="257.5,-5.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,-18.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,-18.5"
+                    Point2="0,-22.5"
+                    Point3="4,-22.5" />
+                  <mssgle:LineSegment
+                    End="253.5,-22.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="253.5,-22.5"
+                    Point2="257.5,-22.5"
+                    Point3="257.5,-18.5" />
+                  <mssgle:LineSegment
+                    End="257.5,-5.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>
