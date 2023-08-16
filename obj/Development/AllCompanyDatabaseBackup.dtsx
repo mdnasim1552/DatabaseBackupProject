@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="63"
-  DTS:VersionGUID="{D99A4F73-8357-4108-A9EB-A71A640BBCE0}">
+  DTS:VersionBuild="64"
+  DTS:VersionGUID="{599BDC11-ED30-4A7A-BDBC-1717435FBD5F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADerOqTeTOtCACiGfohc1SzKQTEowTZwg0Q6Ip4gwSEfwAAAAAOgAAAAAIAACAAAABw9NQxU6vk8zLnJhIkXFLL++Yko/p2LxxZm39uvtHbVDAAAACvm+nQgZdkkrJLTImKGFaSpixBsy7mVDdjz4dTfW0FFI4sfGYrWDZNKRhjIqQzu2xAAAAA0oa2EdjobfkHc5DXq1cZjrm7Md81GLen1NL02D8YmfvACy349af2PQ0MucJDN5BdvL1skxElTbkYfOF9SAV/rw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD50/uypvfB+NoOqRw9a+tieqowSq+DZ70HVlX7Per4hgAAAAAOgAAAAAIAACAAAABiWLxKQQ0iwwnMIGWgJCJ2xFPROk0f/zBCLdqti7/LczAAAACydMv7q8u0wEx40KA8dY5QoL/rXjQ83NPYXrWA77/6JOwZMz9WNumlXVeXlF7ycMBAAAAAv07Z1+vJajfoy+L7tYuSouzfAWpKyfX8Db/H0IGd9B8hqAs35XOcIw/Qk8Y0I4AQdMbEkz427tD/nB27Whz8hQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAOueVK1s2tTZwa1T3IkfFfDjZxppUk70uVZ4s24RfyBQAAAAAOgAAAAAIAACAAAAB125GOnJLnVtez/K2VEXOm1ex0u7nW2twh1nIDvMoJ3CAAAAAFJagDyTr10XaS/9M5GHC3nNK4PAQZmw7Ee1B1NAAQe0AAAAAta1nmg8de+lcY/B4ktOpwZ4vLnVAvb14b5VuJIoqC+bhxrBh5vC7Rk9xlW4ZSqt7Dl8sSO8CsLd3OWV1EV1u0</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA82tYFlPs0o0RYmBJLQf4IGlOzbQPUt+NBj0EYZEme7AAAAAAOgAAAAAIAACAAAACmIyZCCbEylCur8dlc9c9/pQ8BcuYcdoUGPTM7CgtmVyAAAABbEk/IV06rxr1bK6xSh25OHaD0f+kZunbOj0BIyT4UWEAAAADBy1MBpFztC7nqvsSW7oYE5rxdWdm9rJa8lko/zHLbceBUDbLrP3Pcr1bmsMQQrLgvxx2D3I52sZzmhQ7ioZVq</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAEzfqXJW+QyrxufEI8CTnJdoaShdqBs1KoK/IO3rz/dgAAAAAOgAAAAAIAACAAAAC6BgYddpPvWcsPvWp37Qs5bMdS0v/RcRMCfd6lgBXEViAAAAAwWp5vm70YSErkXcTD0zvT3/jIc3our1a/HvV5ACkYJUAAAADuRPiwn0JnHfl+ftaqc6vHxaTPBOmFQ4RnANdRPsmTj7dyMOv/CzU0FdiAWeatSkqTcXvZTs7op0sayvkccIDD</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABDeEVltY2vPGxk/riNQigv7JMopSRubGXC58ftGzqd6AAAAAAOgAAAAAIAACAAAABxX3OSUHws/KF8al7cAYZQDm49e3NTH+fdD/LmTBb8sSAAAADrUO7XNS7C0HBfXU0f6TGMQXjjCMmynBue9JiSU1ofL0AAAABpnxUNDGvkK5v3lWrAKfHQoNlBjCog0qMUsN8+r1A7g/L6LFOaWL9QDg6V+LJVMnJ9G5juy1NH5l5Tw9tWP0QF</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -92,7 +92,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC9tZdcMyos3s9tC5wWWMgkO2Y4kMQSxwxCaxzNlluZEAAAAAAOgAAAAAIAACAAAAD70Eqgz6S1oEhc6GmR3V2Rc9tB0srX+zZXy1RSquCNTjAAAABqcRahjTiFHdLgN5/VwJ3doHIjfo9WjVPUb8l5A1RUagcrsdQ4GOCLP8T5zpUmhptAAAAAJ+9sa7kVNpn1wAuQMKwPyAZDLrXoX1CUMpwLUgSC0VNfUcefxEHLcSn9e8OfhBDxOflwM1eLofAOkeH8vz2Usg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACfFQVb01gw6djGFsVa9SuqdFPLub250cSM3oHrOsZByAAAAAAOgAAAAAIAACAAAAB52B0gWeaOYIy3RriXODkDJhtilbeuptrbAyOLZhroIzAAAACUgdind0iU4hI7QLkfJDRDQWXY+Ygw9ddHlFlU3AH4e5jVy7h5w1h2bZTv27neg25AAAAAT9oo/5qUB/CTY+yH0lXv7yL5HQ/QubufvTKwFscfFoniN7OhfM+eJOQDPWyTvn89FsTuJ9S8SUy2ieB+Qk+tPA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -109,7 +109,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADaqBsyQHDvst9PoAt0na58ITU2IpGjJX9w+B6O7djzZgAAAAAOgAAAAAIAACAAAABXS423aqRKuD0mMan0N5qzR0ZOyoaHQPJ1OkOq4hraBTAAAAA1RDC4oH32s4lEH92GhrWOlYMEOR//PIOAdlzjTEL/EBU1/zQNPzzgHOwgikBOQEZAAAAAGhy+d7my8vs+nGWb9TYD7HYw1p8wAmb8F+CTJ+RphS65gqZ7xHhkeukLZ1qcnpTJeEVG87+JEci2L8u+fpfykA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB8KqXjUJ6lSoypZJ9bmEer70X83MSQ3N+rbzIwzAdecQAAAAAOgAAAAAIAACAAAADsLOc6PEYHSuzqLBpasHzaYHd7QfyuwBTbO1440sPQPTAAAAD6RPHCSc6Xk0M7+dDT2ZxhrUTpOcZWKYXhRf9pTGB/VqZ7qbB4ZNC+8acWZxYQ/JZAAAAA7OxYX4YHo65oqusC+Mry1CiYfrkB155WkBD4EjlNWQpR79V27Q2RAJs5GabxtW8gj6Fy07m907+Wuamg9NXFEA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -126,27 +126,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA2HHMrVu1rrLKppe4u2DGWnA+eg5XUFcYlcsXUwIN2BgAAAAAOgAAAAAIAACAAAACIFxHkfB7+PnZSVReGZ/jftb2LyRXmlmcfLt68Y5IS5zAAAADiaO4O8mcx+ypW28oCfDyF+TpQ8JUabUDsJCvMjUKyXzIYZwXGyxPap1m/tuaVKEVAAAAAa6wEivLhyC+w0JckZcyY1yqHTNwVTWf76N2NYV2PR5UZ54PhB2oeZ3yAY9mtJmPz0Lwe29yPBEnfJVDV0hsRPA</DTS:Password>
-        </DTS:ConnectionManager>
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[FTP Connection Manager]"
-      DTS:CreationName="FTP"
-      DTS:DTSID="{B4E76599-276E-49FA-B3DC-BA5E2E6F2D7D}"
-      DTS:ObjectName="FTP Connection Manager">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:ConnectionString="203.76.103.53:21">
-          <DTS:FtpConnection
-            DTS:ServerName="203.76.103.53"
-            DTS:ServerUserName="ptl"
-            DTS:UsePassiveMode="True">
-            <DTS:Property
-              DTS:Name="ServerPassword"
-              Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAT3k2Dha36xsxq+fVwgO/fhG1tYNe1m63Zu8LM3sP74gAAAAAOgAAAAAIAACAAAAC+OBkWR9LmgC9F0LPojmLrVLnXk/q7q7jbZoTtLI9tYhAAAAAGT87t7EOwrIH1m0cyqcENQAAAAEldUnF8qurBu2N6kEIMvKg8YiX5cDx9ierzUqjK7IxDWuLvnV4abocHXzJX90zSSrQM3X57YQauY46o4xFQyCM</DTS:Property>
-          </DTS:FtpConnection>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACMtDkUlBaIEDtTNvD+jH3Y6rmgXT/NGcRLTaTKTdyFSwAAAAAOgAAAAAIAACAAAADma3YTYDbTrem8mA5s+KYzOPe/DC+739GcUj1m5+V7WDAAAADDgID9qPk/0DA/pSC0a6wDJTqFPxaEc3NbBKtcAhquY9jok9U3UAOqAWVo01D3Gy5AAAAAL4AFEhJ7bctHnnRRzQNtb+GCZpNRQjMrD7LsYiJjAhYehDn6YnQJeNJDtVFHETlojgB9MQMdAFyquvBjWqtCcg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -165,7 +145,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABwuwaPbClfwiLcrwE03FF8Om80LV/y+OHXXrW3ZX4I3QAAAAAOgAAAAAIAACAAAABGTxFW1sk6ezvscbG724je+iNMo2bYgOgwWrzAjr3VEBAAAABzkz16SgWlZ7cU/jM6mWN6QAAAAJ08Yok/nN6N7HtBg1MKb89gV0QhBbYc9vt8bGi/NPnXJ+yXF441nGBWJmiACpvsE8Dd+gSHAqNGgGPYVlMMM7c</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACjvVtlyrAzJZn6TTUG9PFk2WNatcl9qNRuqm2thrfzhAAAAAAOgAAAAAIAACAAAAB0vD1Kcv3Cge5cwAbYSf9sS/y9s4Y/BR3y0fkP9y6TCRAAAADJexVDosNMxCbLpb/V25fzQAAAANN/471xVO3RY/tLsti2argg5btt1EdAZNrJs1yIpPsQXFprRKFgaQ/wRiKaom1xgcT2lT9aqQNu7UKZyIO35g4</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -185,7 +165,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACE/0RlmsTZAsKW2T15aTa0mMoRtgDRlQrTcoa0MICq6gAAAAAOgAAAAAIAACAAAAAFRuK+Spc1NGQl/0sNDvtF6yF+nHR+uBx42x/bik6Q8BAAAADkUIosHJHN7q86FTrLpvjsQAAAAJ6QBAJx5g+A8YBqZgJO72aHeLttzo6eNnIG0e/kwKCpcesS2Q6dj5jISTUfh3O7q+P+rn9C1Whl120khlArmyE</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABRsLon/kTlNBO8PanUvyLMtf3VkGsTosowCOuriO/+jgAAAAAOgAAAAAIAACAAAAB48yseGiXMMxO9z7j1O9Rf5FOTYpKXl5suLgmjNy5iIhAAAAC5WqWCQSjRVVbuuAOWueQ1QAAAADZ2+9/GaTSfK4sDNnMrMkDV4eWREtQHkyAaZK0fTKRlBa0Yiq/UpgA7gh7akrNe2J0Gc7RPARhFSi4DOxXhZT4</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -205,7 +185,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAND7ayuHJFIW6YJo/bHfner1YcwYMbts4zg06ljgg9mwAAAAAOgAAAAAIAACAAAACK5I4/Zi/tVhiw7eYQAsUYX/l0sW83AtMeceRqgeoqexAAAADDrFKhkM9iVG7t7R+vscdfQAAAAMJKALDxl7yhw0F58duFoNhb+9e/DKcZWBXhKWd9V4F7FSSi1mVslEszTRKcPF66W0Q46vb78CC/Fbn5y7HHs1A</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC4imXYbn8oeZsDA0nau68IVjnwYXL7GT3jEQaeGKz8agAAAAAOgAAAAAIAACAAAADb793dDbQcWpwuyGnDBmvzZtZfOEPpealYhp+70L+wNxAAAAA+FChuSc361SLUWl2N+T19QAAAACU3ANb4++tE0KSqFJ5kt0uqGehoLk7WzElBmp5p+QnvS8Z+IqnHfJkr/Jf8R0Whi4N2vYUhJc8/p6+KwgwowHA</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -225,7 +205,27 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADT+3TM6ns7n1A605lehcJ2arHcYhJzh9/25Gy42a+XeQAAAAAOgAAAAAIAACAAAACyQz1GVWFmlcTV/0177A100ZCfUl24IlNYNV11JQI6exAAAAAWRlCMdUm+/kNmQ+tlJE3xQAAAADNRwGQFtwMNSMXOtry90zcr3ID/SjFQ7gQodkm3GUg0v5bLza2k57QQTW8lx79OyZcqZVBcmDr1fKh5m4CKnR8</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADsoh2lV+LepRP0czYxTHfpb5qhIjGWOfzNlU17iy50BQAAAAAOgAAAAAIAACAAAABsiz24+mrFU+JbSdtmMSIUHgkN7BzpUiZG6jeQIDlT1BAAAACz8E5+ZWHio7GFRoMLiyboQAAAAHDQ3xGIGzgShbk+sCfGPBJrlEq6yLfJL1/f5cck+KHbL1oJzFvYlP/aDZ8npWR3lQCTv9MvIa7OKdj9EvwELTQ</DTS:Property>
+          </DTS:FtpConnection>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[FTP_CON_UDDL]"
+      DTS:CreationName="FTP"
+      DTS:DTSID="{B4E76599-276E-49FA-B3DC-BA5E2E6F2D7D}"
+      DTS:ObjectName="FTP_CON_UDDL">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="203.76.103.53:21">
+          <DTS:FtpConnection
+            DTS:ServerName="203.76.103.53"
+            DTS:ServerUserName="ptl"
+            DTS:UsePassiveMode="True">
+            <DTS:Property
+              DTS:Name="ServerPassword"
+              Sensitive="1"
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADABDYmI687U1BIkxSzmDSBZuUFAAO+PSNUkUFcfCSUcwAAAAAOgAAAAAIAACAAAAAI7eJ/aah2PvXVvBO+JIKBsRtaaBhWQ0UiRY3VtNzNeBAAAAAwCEIWAoAN1CcIfVe9AkMrQAAAACZok9trYJpIY56kStclsM5pBlVSQb5LKPQVFrMxoJqSRQoiI5V9EBF4D/iuSwy+bonw9U2oVRcnwZD8sD11UWo</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -241,7 +241,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="CurrentYear">
       <DTS:VariableValue
-        DTS:DataType="8">/Nasim/ASITINTERIORDB20230812.txt</DTS:VariableValue>
+        DTS:DataType="8">/Nasim/ASITINTERIORDB20230816.txt</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -297,7 +297,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="RemotePathVariable">
       <DTS:VariableValue
-        DTS:DataType="8">/Nasim/ASITINTERIORDB20230812.txt</DTS:VariableValue>
+        DTS:DataType="8">/Nasim/ASITINTERIORDB20230816.txt</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -308,7 +308,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="RemotePathVariableAssure">
       <DTS:VariableValue
-        DTS:DataType="8">/Zip_Files/ASITINTERIORDB20230812.zip</DTS:VariableValue>
+        DTS:DataType="8">/Zip_Files/ASITINTERIORDB20230816.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -319,7 +319,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="RemotePathVariableFinlayAcc">
       <DTS:VariableValue
-        DTS:DataType="8">/ZIP_PATH_ACC/ASITINTERIORDBACC20230812.zip</DTS:VariableValue>
+        DTS:DataType="8">/ZIP_PATH_ACC/ASITINTERIORDBACC20230816.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -330,7 +330,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="RemotePathVariableFinlayERP">
       <DTS:VariableValue
-        DTS:DataType="8">/ZIP_PATH_ERP/ASITINTERIORDB20230812.zip</DTS:VariableValue>
+        DTS:DataType="8">/ZIP_PATH_ERP/ASITINTERIORDB20230816.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -341,7 +341,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="RemotePathVaribaleAcmeERP">
       <DTS:VariableValue
-        DTS:DataType="8">/ERP_ZIP_Files/ASITINTERIORDB20230812.zip</DTS:VariableValue>
+        DTS:DataType="8">/ERP_ZIP_Files/ASITINTERIORDB20230816.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -352,7 +352,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="RemotePathVaribaleUddlAcc">
       <DTS:VariableValue
-        DTS:DataType="8">/ACC/ZIP_Files/ASITINTERIORDB20230812.zip</DTS:VariableValue>
+        DTS:DataType="8">/ACC/ZIP_Files/ASITINTERIORDB20230816.zip</DTS:VariableValue>
     </DTS:Variable>
   </DTS:Variables>
   <DTS:Executables>
@@ -375,7 +375,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="3">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -392,7 +392,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="FTP Task"
           DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="3">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <FtpData
@@ -436,7 +436,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="3">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -453,7 +453,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="FTP Task"
           DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="3">
           <DTS:Variables />
           <DTS:ObjectData>
             <FtpData
@@ -497,7 +497,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -514,7 +514,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="FTP Task"
           DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <FtpData
@@ -558,7 +558,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -575,7 +575,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="FTP Task"
           DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <FtpData
