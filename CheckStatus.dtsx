@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="79"
-  DTS:VersionGUID="{74046F38-2CFF-4C75-BDCE-5DE29863F53E}">
+  DTS:VersionBuild="81"
+  DTS:VersionGUID="{2924BFB1-0136-4A45-9CCC-72C2BC66AA09}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACBStcN/Sai8T9FqDzjXVG325tuQEO3+UjOnkU/R+PJCQAAAAAOgAAAAAIAACAAAADJMUxTdaURHTjgfoBQPWJLeirjm5P6jC4ZJS2VVmycIyAAAAApDEiBXB3PtLaR0uX8PAkW4V06RED1rg2iJGaPA0tzcUAAAADzfzMJeGHqWyn0Xi2s/bGlBi8djXGbAisDLscm02qHAOROG+BqL3R3OJX2R/vOpH1/0U3c9X/ixEAYuyGGmO0R</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA0H0lvH5ybd9JBuixqNKp0ocFAq3QdLteLC+uNR67wBgAAAAAOgAAAAAIAACAAAAAYAdCOggFSfiQpbV5pLjDeGNt4I1saOY3uhjZUuw1rQSAAAAD1QQcaNBd4RnydmFmvFKcLviB5iCagvN7J5vuBE6zDzkAAAACZJ9ddu7hfWlRe44j2MvGPf8B5NXAmoqCLKwvVZLJYNVHW2JCKYpKUdqQOkeS2t2MUcmnXTmEu2pGzsAiIvqFw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -66,7 +66,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA4WY7Yaw9452wKuT/j/x8+Dwd7KM9iV4iMYASv9659PwAAAAAOgAAAAAIAACAAAACvt+mLcCY38EvkzZW6xAEEelV0lTmWNGvdOzoskfJ9vyAAAADZ/0QpXNT3JLsPDuOPXsF0DorGFKWZBfYKT1hBT61b60AAAACNXsDwmQz1fNkWDINvPuBeaDPNwK4RZZlApL+XgEPHDDeXgch38uxLqHpsj3W+VCyuziQnunoX8brl51X+S1hX</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC7QutMIdCF7kEWQNn44c+X+BpL9VLFyzNsaWyEeyMM6AAAAAAOgAAAAAIAACAAAAAn8+SKGVPwmZKlfzWicBXhZwIgSfehR7UZPHZdrabrHCAAAAAZijKwTqViHbW8YY57GgXMJUcCbYJrgYmWoo2l6wy1YEAAAADYJ7uNleiaL1qBzpsJn9vkocaWddBPRVB3bBjcKWXOp1warMonz5H8l/SoEJClRQ3LGv9tSEzv1LHcNQt0Aw16</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -92,7 +92,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAOrmW6aRDFEEBv653IwkobdyjXpeDm0O63xvZyIIk9awAAAAAOgAAAAAIAACAAAACUJAdhJezE8bqGAZeF3LwQLTJWN/z36t/cCE/f+yBdQCAAAAAHU666/c8vUe4Q+NmKuXhw3rvPhd3rxr4swLYdGMte/UAAAAAoEgBvH28Sv7dOSEpakp/uywOYKJDT2Af4mvz/8fv2IBAT1niVFhwHqAvFKHFPl+C++OF644VhkBQXi24Vwy/7</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAslHTcEP6CVHGCGPYa3dT+27pawErFiqlerGr6XO8xywAAAAAOgAAAAAIAACAAAACuW//aGbyPXiFLHtctH9GzJoJPFf2RU/SWxwWZwSVtXyAAAABcOJKKGar90TW4YtMwu7Xg3cOeSk19xlCqc+Ls+vj520AAAAB0A9iZJLaKNvsOn6INmXtBIFU7wIBEV+n0rhODvO/dLidzLk9UpH8B8SQD6G+sUHp9kSYkWzCBmiyNrdT97bSy</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -118,7 +118,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA/s9wU4gFjW2OG1f6vDQF12lIUuiCy4wlF0NOy4ARyngAAAAAOgAAAAAIAACAAAAC6ie7dUNp+fd4WpsaLCVTGqJ0iBn3XWBLOIN5JZAHoKyAAAAD8cGR1K7VlVrK2Wl90zi9Ah1rfOwHkIYvYczH7FYXJEUAAAADdatmedKkqpvCeehlYBVQpQrone2at9ontrhEYVb6imyCfptbQKR7SpoWUuKUGvW+YadoxAbvb+4VhMGKJ1c4w</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACCDUT7qaiXoGWHIQMLPffjOIGFy77IQkJcVBx65q9FnAAAAAAOgAAAAAIAACAAAADET2K6H+HfB4VkbATadsRlbyKOpF+kDGqJUhS0aS/lQCAAAACTltYBETJeqRBvNKFTw331qf6l2ru7TCr4rMjluJF2FUAAAACoQDR5E+Xvq5qoJPRPwkD6QaoaDRUJCrQh6I0QuRrH9gjPmBLEhOto/C4O7fo29zH3KMH3M60J21sW1z0Ugq07</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -144,7 +144,33 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABEui9r207nzD+75glcJdjoxeF1n3fkauFaWeBHtYC4fwAAAAAOgAAAAAIAACAAAACu+U9yW5YJZ6fBVFq7ZQ8OPWoJ2gJ39tmqvJLAJs9FhCAAAACz9xoOMr9OBLUCxJtvUwmuiMAzK4ivqS2w0sP2JhfstkAAAABFKc7WwFFhazxA5uMXx3oIndbvhHFp6xUrYUAPs5I3xFTcgeZJ8bgTWHH0653Ao3oHBao60z6t2qJZg1RX3kzx</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADj2qQUqrXxxqzHZkORWTx4YNBxwD8VLvyF+24tT8lPwwAAAAAOgAAAAAIAACAAAABGSd13LtABvlQuEDOf5MDQ96IcUd/5Fof+9gS2nuzU4CAAAABsgfFa0IZHG/Qce6B7veJNRSCQ1y/yDClnApOS/XRKuUAAAAAn28F7p2TuOfxS8sH6rDmp9b3zwYgSJKC3cdvZBalomwPzvOEX+gIjeeI5uwiwtqRlx8CGDFGlJQynoFU+rrMs</DTS:Property>
+          </DTS:FtpConnection>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[FTP Connection Manager 5]"
+      DTS:CreationName="FTP"
+      DTS:DTSID="{cc062cc0-cb19-44cf-b800-51b9e156289b}"
+      DTS:ObjectName="FTP Connection Manager 5">
+      <DTS:PropertyExpression
+        DTS:Name="ServerName">@[$Package::FTPServer]</DTS:PropertyExpression>
+      <DTS:PropertyExpression
+        DTS:Name="ServerPassword">@[$Package::FTPPassword]</DTS:PropertyExpression>
+      <DTS:PropertyExpression
+        DTS:Name="ServerUserName">@[$Package::FTPUsername]</DTS:PropertyExpression>
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="123.200.23.58:21">
+          <DTS:FtpConnection
+            DTS:ServerName="123.200.23.58"
+            DTS:ServerUserName="ftp-users"
+            DTS:UsePassiveMode="True">
+            <DTS:Property
+              DTS:Name="ServerPassword"
+              Sensitive="1"
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdq2Oj2Dlf0Gex1i4bHo0HQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB3t4eW/oULUkpBjYTKolIsHsLcH+HbXuQcGdHCzuCPoQAAAAAOgAAAAAIAACAAAABpFc3h9Zf+Z4GexJQqq2hN1o+Vx5ChDFQH7zTLkqZEIyAAAADhN1Cz/msQWreRNu8oZRlmLXcifalHaZue3m+xIfaM60AAAAD+CBDr7lCYQGdiIUbcs0pkvYr/ruNiQ7QJGdGYpKtVdBO5C4jhkt5sQvEpuoD5tBTt+JvffFuDTLQ8lD6GCt0h</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -226,6 +252,17 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
+      DTS:DTSID="{E3C54EF7-6CB4-4FEB-AA59-201B63ED0F5F}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="&quot;//&quot;+ @[User::FTP_PATH5]+&quot;//&quot;+  @[User::LATESTMAXBK5]"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="ActualFTPpath5">
+      <DTS:VariableValue
+        DTS:DataType="8">////</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
       DTS:DTSID="{A05E7A76-9134-4BB2-BF26-1809B6955DCA}"
       DTS:EvaluateAsExpression="True"
       DTS:Expression="@[User::Basefolderpath]+ &quot;\\&quot;+@[User::LocalPathWithBaseFolder]"
@@ -265,6 +302,17 @@
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
       DTS:ObjectName="Autocreatedfolderpath4">
+      <DTS:VariableValue
+        DTS:DataType="8">C:\Users\mdnas\OneDrive\Desktop\</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{1209FAB6-0E98-40D2-81FB-4E0B7D0C23E2}"
+      DTS:EvaluateAsExpression="True"
+      DTS:Expression="@[User::Basefolderpath]+ &quot;\\&quot;+ @[User::LocalPathWithBaseFolder5]"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="Autocreatedfolderpath5">
       <DTS:VariableValue
         DTS:DataType="8">C:\Users\mdnas\OneDrive\Desktop\</DTS:VariableValue>
     </DTS:Variable>
@@ -323,6 +371,16 @@
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
       DTS:ObjectName="FTP_PATH4">
+      <DTS:VariableValue
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{5A336117-17E0-4AB6-9439-22577790EB7A}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="FTP_PATH5">
       <DTS:VariableValue
         DTS:DataType="8"
         xml:space="preserve"></DTS:VariableValue>
@@ -397,6 +455,16 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
+      DTS:DTSID="{962BC396-A717-4E21-9446-7E884EED2017}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="LATESTMAXBK5">
+      <DTS:VariableValue
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
       DTS:DTSID="{B80EE870-2DDE-49AF-B30F-1C3D3330EF6A}"
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
@@ -431,6 +499,16 @@
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
       DTS:ObjectName="LocalPathWithBaseFolder4">
+      <DTS:VariableValue
+        DTS:DataType="8"
+        xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{54960ED7-C9E0-4057-8187-8EF0ACBC61FF}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="LocalPathWithBaseFolder5">
       <DTS:VariableValue
         DTS:DataType="8"
         xml:space="preserve"></DTS:VariableValue>
@@ -527,6 +605,24 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
+      DTS:DTSID="{BEE0589B-C822-4D70-967E-4EAE9CCE9CE1}"
+      DTS:IncludeInDebugDump="6789"
+      DTS:Namespace="User"
+      DTS:ObjectName="Subfolders5">
+      <DTS:VariableValue
+        DTS:DataSubType="ManagedSerializable"
+        DTS:DataType="13">
+        <SOAP-ENV:Envelope xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+          <SOAP-ENV:Body>
+            <xsd:anyType
+              id="ref-1"></xsd:anyType>
+          </SOAP-ENV:Body>
+        </SOAP-ENV:Envelope>
+      </DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
       DTS:DTSID="{353F1B34-D5BA-42BD-B5A5-03E3C9173554}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
@@ -567,6 +663,636 @@
             SQLTask:DtsVariableName="User::ResultObject" />
         </SQLTask:SqlTaskData>
       </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Download Parallel Based on Subsets"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:DTSID="{5FF0BADF-7A4F-440D-9097-E4A3E76ED6C6}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Download Parallel Based on Subsets">
+      <DTS:Variables />
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Folders &amp; Files 1"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{0D55BEB9-CAC2-4318-8D60-9AB03D61F424}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Folders &amp; Files 1"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="3">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{3BF96326-DA92-40C8-A83D-14DE7ACF1B4A}"
+              SQLTask:SqlStatementSource="select substring(ftppath,2,len(ftppath)-1) as ftppath, substring(replace(ftppath,'/','\'),2,len(ftppath)-2) as localpath,latestmaxbk from [dbo].[backupstatus] &#xA;where upldate=FORMAT(GETDATE(), 'yyyy-MMM-dd') and id between 1 and 8"
+              SQLTask:ResultType="ResultSetType_Rowset" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+              <SQLTask:ResultBinding
+                SQLTask:ResultName="0"
+                SQLTask:DtsVariableName="User::Subfolders1" />
+            </SQLTask:SqlTaskData>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Folders &amp; Files 2"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{C646B1B1-1EF8-453D-BC66-46BF4966A3C2}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Folders &amp; Files 2"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{3BF96326-DA92-40C8-A83D-14DE7ACF1B4A}"
+              SQLTask:SqlStatementSource="select substring(ftppath,2,len(ftppath)-1) as ftppath, substring(replace(ftppath,'/','\'),2,len(ftppath)-2) as localpath,latestmaxbk from [dbo].[backupstatus] &#xA;where upldate=FORMAT(GETDATE(), 'yyyy-MMM-dd') and id between 9 and 16"
+              SQLTask:ResultType="ResultSetType_Rowset" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+              <SQLTask:ResultBinding
+                SQLTask:ResultName="0"
+                SQLTask:DtsVariableName="User::Subfolders2" />
+            </SQLTask:SqlTaskData>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Folders &amp; Files 3"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{419A36F1-66CF-4D47-A551-FB297B18A415}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Folders &amp; Files 3"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="4">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{3BF96326-DA92-40C8-A83D-14DE7ACF1B4A}"
+              SQLTask:SqlStatementSource="select substring(ftppath,2,len(ftppath)-1) as ftppath, substring(replace(ftppath,'/','\'),2,len(ftppath)-2) as localpath,latestmaxbk from [dbo].[backupstatus] &#xA;where upldate=FORMAT(GETDATE(), 'yyyy-MMM-dd') and id between 17 and 24"
+              SQLTask:ResultType="ResultSetType_Rowset" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+              <SQLTask:ResultBinding
+                SQLTask:ResultName="0"
+                SQLTask:DtsVariableName="User::Subfolders3" />
+            </SQLTask:SqlTaskData>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Folders &amp; Files 4"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{92B0794A-00B7-4376-866B-00DB9BEA6093}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Folders &amp; Files 4"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="2">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{3BF96326-DA92-40C8-A83D-14DE7ACF1B4A}"
+              SQLTask:SqlStatementSource="select substring(ftppath,2,len(ftppath)-1) as ftppath, substring(replace(ftppath,'/','\'),2,len(ftppath)-2) as localpath,latestmaxbk from [dbo].[backupstatus] &#xA;where upldate=FORMAT(GETDATE(), 'yyyy-MMM-dd') and id between 25 and 32"
+              SQLTask:ResultType="ResultSetType_Rowset" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+              <SQLTask:ResultBinding
+                SQLTask:ResultName="0"
+                SQLTask:DtsVariableName="User::Subfolders4" />
+            </SQLTask:SqlTaskData>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Folders &amp; Files 5"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{79E640BD-7E0C-406E-919A-6E19C21100CE}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Folders &amp; Files 5"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="0">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{3BF96326-DA92-40C8-A83D-14DE7ACF1B4A}"
+              SQLTask:SqlStatementSource="select substring(ftppath,2,len(ftppath)-1) as ftppath, substring(replace(ftppath,'/','\'),2,len(ftppath)-2) as localpath,latestmaxbk from [dbo].[backupstatus] &#xA;where upldate=FORMAT(GETDATE(), 'yyyy-MMM-dd') and id&gt;=33"
+              SQLTask:ResultType="ResultSetType_Rowset" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+              <SQLTask:ResultBinding
+                SQLTask:ResultName="0"
+                SQLTask:DtsVariableName="User::Subfolders5" />
+            </SQLTask:SqlTaskData>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container"
+          DTS:CreationName="STOCK:FOREACHLOOP"
+          DTS:Description="Foreach Loop Container"
+          DTS:DTSID="{4F817CC3-2E58-4AB1-8677-F3703A462557}"
+          DTS:ExecutableType="STOCK:FOREACHLOOP"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Foreach Loop Container">
+          <DTS:ForEachEnumerator
+            DTS:CreationName="Microsoft.ForEachADOEnumerator"
+            DTS:DTSID="{2E05370E-8E0A-4C7E-A93D-871B01A0492B}"
+            DTS:ObjectName="{2E05370E-8E0A-4C7E-A93D-871B01A0492B}">
+            <DTS:ObjectData>
+              <FEEADO
+                EnumType="EnumerateRowsInFirstTable"
+                VarName="User::Subfolders5" />
+            </DTS:ObjectData>
+          </DTS:ForEachEnumerator>
+          <DTS:Variables />
+          <DTS:Executables>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container\File System Task"
+              DTS:CreationName="Microsoft.FileSystemTask"
+              DTS:Description="File System Task"
+              DTS:DTSID="{020748BA-C41E-455D-99D7-4973900B5F06}"
+              DTS:ExecutableType="Microsoft.FileSystemTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="File System Task"
+              DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="0">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FileSystemData
+                  TaskOperationType="CreateDirectory"
+                  TaskOverwriteDestFile="True"
+                  TaskSourcePath="User::Autocreatedfolderpath5"
+                  TaskIsSourceVariable="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container\FTP Task"
+              DTS:CreationName="Microsoft.FtpTask"
+              DTS:Description="FTP Task"
+              DTS:DTSID="{ADF780AE-4DD0-4E74-80BD-6DD2EE7DA38F}"
+              DTS:ExecutableType="Microsoft.FtpTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="FTP Task"
+              DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="0">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FtpData
+                  ConnectionName="{cc062cc0-cb19-44cf-b800-51b9e156289b}"
+                  TaskOperationType="Receive"
+                  TaskIsLocalPathVar="True"
+                  TaskLocalPath="User::Autocreatedfolderpath5"
+                  TaskIsRemotePathVar="True"
+                  TaskRemotePath="User::ActualFTPpath5"
+                  TaskOverwriteDest="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+          </DTS:Executables>
+          <DTS:PrecedenceConstraints>
+            <DTS:PrecedenceConstraint
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container.PrecedenceConstraints[Constraint]"
+              DTS:CreationName=""
+              DTS:DTSID="{7BB4138C-BB7C-4B77-81DE-2049F6CEC719}"
+              DTS:From="Package\Download Parallel Based on Subsets\Foreach Loop Container\File System Task"
+              DTS:LogicalAnd="True"
+              DTS:ObjectName="Constraint"
+              DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container\FTP Task" />
+          </DTS:PrecedenceConstraints>
+          <DTS:ForEachVariableMappings>
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{0A2505D8-F514-4EBE-A686-0182BF75AA98}"
+              DTS:ObjectName="{0A2505D8-F514-4EBE-A686-0182BF75AA98}"
+              DTS:ValueIndex="0"
+              DTS:VariableName="User::FTP_PATH5" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{65AD205A-8032-48B7-965F-5824D0DB1294}"
+              DTS:ObjectName="{65AD205A-8032-48B7-965F-5824D0DB1294}"
+              DTS:ValueIndex="1"
+              DTS:VariableName="User::LocalPathWithBaseFolder5" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{FF664EB0-8E77-4320-8B31-B2E0ED75C019}"
+              DTS:ObjectName="{FF664EB0-8E77-4320-8B31-B2E0ED75C019}"
+              DTS:ValueIndex="2"
+              DTS:VariableName="User::LATESTMAXBK5" />
+          </DTS:ForEachVariableMappings>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 1"
+          DTS:CreationName="STOCK:FOREACHLOOP"
+          DTS:Description="Foreach Loop Container"
+          DTS:DTSID="{261A93D1-5500-4BC4-8520-3D10D8A40E11}"
+          DTS:ExecutableType="STOCK:FOREACHLOOP"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Foreach Loop Container 1">
+          <DTS:ForEachEnumerator
+            DTS:CreationName="Microsoft.ForEachADOEnumerator"
+            DTS:DTSID="{C2AB7720-0B06-4B29-89E0-C8B0A00037B5}"
+            DTS:ObjectName="{C2AB7720-0B06-4B29-89E0-C8B0A00037B5}">
+            <DTS:ObjectData>
+              <FEEADO
+                EnumType="EnumerateRowsInFirstTable"
+                VarName="User::Subfolders1" />
+            </DTS:ObjectData>
+          </DTS:ForEachEnumerator>
+          <DTS:Variables />
+          <DTS:Executables>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 1\File System Task"
+              DTS:CreationName="Microsoft.FileSystemTask"
+              DTS:Description="File System Task"
+              DTS:DTSID="{CBCF4819-4E3E-4157-9037-9ED336FFD514}"
+              DTS:ExecutableType="Microsoft.FileSystemTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="File System Task"
+              DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="3">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FileSystemData
+                  TaskOperationType="CreateDirectory"
+                  TaskOverwriteDestFile="True"
+                  TaskSourcePath="User::Autocreatedfolderpath"
+                  TaskIsSourceVariable="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 1\FTP Task"
+              DTS:CreationName="Microsoft.FtpTask"
+              DTS:Description="FTP Task"
+              DTS:DTSID="{EA6DA43F-0A6F-466E-829F-729C2142C15A}"
+              DTS:ExecutableType="Microsoft.FtpTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="FTP Task"
+              DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="3">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FtpData
+                  ConnectionName="{377E87B6-60E9-40C7-8E96-CC5A3CF80C95}"
+                  StopOnFailure="False"
+                  TaskOperationType="Receive"
+                  TaskIsLocalPathVar="True"
+                  TaskLocalPath="User::Autocreatedfolderpath"
+                  TaskIsRemotePathVar="True"
+                  TaskRemotePath="User::ActualFTPpath"
+                  TaskOverwriteDest="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+          </DTS:Executables>
+          <DTS:PrecedenceConstraints>
+            <DTS:PrecedenceConstraint
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 1.PrecedenceConstraints[Constraint]"
+              DTS:CreationName=""
+              DTS:DTSID="{ED11BBD4-143A-4E8E-9CAD-F9ADD2D20B4E}"
+              DTS:From="Package\Download Parallel Based on Subsets\Foreach Loop Container 1\File System Task"
+              DTS:LogicalAnd="True"
+              DTS:ObjectName="Constraint"
+              DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container 1\FTP Task" />
+          </DTS:PrecedenceConstraints>
+          <DTS:ForEachVariableMappings>
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{810572EE-B155-4EAC-8F8B-196C864BF9FD}"
+              DTS:ObjectName="{810572EE-B155-4EAC-8F8B-196C864BF9FD}"
+              DTS:ValueIndex="0"
+              DTS:VariableName="User::FTP_PATH" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{5A0B3BA6-CA1C-4BFE-8169-DEFC80E77F69}"
+              DTS:ObjectName="{5A0B3BA6-CA1C-4BFE-8169-DEFC80E77F69}"
+              DTS:ValueIndex="1"
+              DTS:VariableName="User::LocalPathWithBaseFolder" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{336F5911-487A-4F1E-924A-3564A4C21CAF}"
+              DTS:ObjectName="{336F5911-487A-4F1E-924A-3564A4C21CAF}"
+              DTS:ValueIndex="2"
+              DTS:VariableName="User::LATESTMAXBK" />
+          </DTS:ForEachVariableMappings>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 2"
+          DTS:CreationName="STOCK:FOREACHLOOP"
+          DTS:Description="Foreach Loop Container"
+          DTS:DTSID="{4F8BB0C4-D8E1-419D-A065-65DF9B3BD972}"
+          DTS:ExecutableType="STOCK:FOREACHLOOP"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Foreach Loop Container 2">
+          <DTS:ForEachEnumerator
+            DTS:CreationName="Microsoft.ForEachADOEnumerator"
+            DTS:DTSID="{1E413F97-04AB-4593-8AC3-B871D5938B56}"
+            DTS:ObjectName="{1E413F97-04AB-4593-8AC3-B871D5938B56}">
+            <DTS:ObjectData>
+              <FEEADO
+                EnumType="EnumerateRowsInFirstTable"
+                VarName="User::Subfolders2" />
+            </DTS:ObjectData>
+          </DTS:ForEachEnumerator>
+          <DTS:Variables />
+          <DTS:Executables>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 2\File System Task"
+              DTS:CreationName="Microsoft.FileSystemTask"
+              DTS:Description="File System Task"
+              DTS:DTSID="{E1E4E165-2169-4275-B6E8-11B9BFE5C74D}"
+              DTS:ExecutableType="Microsoft.FileSystemTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="File System Task"
+              DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="1">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FileSystemData
+                  TaskOperationType="CreateDirectory"
+                  TaskOverwriteDestFile="True"
+                  TaskSourcePath="User::Autocreatedfolderpath2"
+                  TaskIsSourceVariable="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 2\FTP Task"
+              DTS:CreationName="Microsoft.FtpTask"
+              DTS:Description="FTP Task"
+              DTS:DTSID="{0D1BC61E-0B9A-4C52-A871-9236FB1569BA}"
+              DTS:ExecutableType="Microsoft.FtpTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="FTP Task"
+              DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="1">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FtpData
+                  ConnectionName="{d7a2b4dc-da58-4a78-bd79-5ae71de0f32f}"
+                  TaskOperationType="Receive"
+                  TaskIsLocalPathVar="True"
+                  TaskLocalPath="User::Autocreatedfolderpath2"
+                  TaskIsRemotePathVar="True"
+                  TaskRemotePath="User::ActualFTPpath2"
+                  TaskOverwriteDest="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+          </DTS:Executables>
+          <DTS:PrecedenceConstraints>
+            <DTS:PrecedenceConstraint
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 2.PrecedenceConstraints[Constraint]"
+              DTS:CreationName=""
+              DTS:DTSID="{DA7EC6F2-01F3-413A-8002-AC4C59905009}"
+              DTS:From="Package\Download Parallel Based on Subsets\Foreach Loop Container 2\File System Task"
+              DTS:LogicalAnd="True"
+              DTS:ObjectName="Constraint"
+              DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container 2\FTP Task" />
+          </DTS:PrecedenceConstraints>
+          <DTS:ForEachVariableMappings>
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{A26ACD41-3ACA-42CC-AD6D-1BA27751F22D}"
+              DTS:ObjectName="{A26ACD41-3ACA-42CC-AD6D-1BA27751F22D}"
+              DTS:ValueIndex="0"
+              DTS:VariableName="User::FTP_PATH2" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{F3DE1D78-2FD1-4882-9890-D862AD35B0DF}"
+              DTS:ObjectName="{F3DE1D78-2FD1-4882-9890-D862AD35B0DF}"
+              DTS:ValueIndex="1"
+              DTS:VariableName="User::LocalPathWithBaseFolder2" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{0ED38954-28BA-423D-A42E-FFDD1764BE02}"
+              DTS:ObjectName="{0ED38954-28BA-423D-A42E-FFDD1764BE02}"
+              DTS:ValueIndex="2"
+              DTS:VariableName="User::LATESTMAXBK2" />
+          </DTS:ForEachVariableMappings>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 3"
+          DTS:CreationName="STOCK:FOREACHLOOP"
+          DTS:Description="Foreach Loop Container"
+          DTS:DTSID="{8115B6F0-D7CD-4C3E-B84A-386864B1CADB}"
+          DTS:ExecutableType="STOCK:FOREACHLOOP"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Foreach Loop Container 3">
+          <DTS:ForEachEnumerator
+            DTS:CreationName="Microsoft.ForEachADOEnumerator"
+            DTS:DTSID="{45A97EAD-7041-4DD4-8DEC-451583CD2FB7}"
+            DTS:ObjectName="{45A97EAD-7041-4DD4-8DEC-451583CD2FB7}">
+            <DTS:ObjectData>
+              <FEEADO
+                EnumType="EnumerateRowsInFirstTable"
+                VarName="User::Subfolders3" />
+            </DTS:ObjectData>
+          </DTS:ForEachEnumerator>
+          <DTS:Variables />
+          <DTS:Executables>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 3\File System Task"
+              DTS:CreationName="Microsoft.FileSystemTask"
+              DTS:Description="File System Task"
+              DTS:DTSID="{C02226C2-6EFD-45B6-8D63-E8439DF541E2}"
+              DTS:ExecutableType="Microsoft.FileSystemTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="File System Task"
+              DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="4">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FileSystemData
+                  TaskOperationType="CreateDirectory"
+                  TaskOverwriteDestFile="True"
+                  TaskSourcePath="User::Autocreatedfolderpath3"
+                  TaskIsSourceVariable="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 3\FTP Task"
+              DTS:CreationName="Microsoft.FtpTask"
+              DTS:Description="FTP Task"
+              DTS:DTSID="{2C41F377-AA55-4B54-B414-DC287E379E80}"
+              DTS:ExecutableType="Microsoft.FtpTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="FTP Task"
+              DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="4">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FtpData
+                  ConnectionName="{c6f6ee74-28da-47f6-842d-9634c403e213}"
+                  TaskOperationType="Receive"
+                  TaskIsLocalPathVar="True"
+                  TaskLocalPath="User::Autocreatedfolderpath3"
+                  TaskIsRemotePathVar="True"
+                  TaskRemotePath="User::ActualFTPpath3"
+                  TaskOverwriteDest="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+          </DTS:Executables>
+          <DTS:PrecedenceConstraints>
+            <DTS:PrecedenceConstraint
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 3.PrecedenceConstraints[Constraint]"
+              DTS:CreationName=""
+              DTS:DTSID="{EB2260A3-22D0-438F-B307-665B81922AF9}"
+              DTS:From="Package\Download Parallel Based on Subsets\Foreach Loop Container 3\File System Task"
+              DTS:LogicalAnd="True"
+              DTS:ObjectName="Constraint"
+              DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container 3\FTP Task" />
+          </DTS:PrecedenceConstraints>
+          <DTS:ForEachVariableMappings>
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{5BF7B5CC-1D3F-448E-A607-5712705DE870}"
+              DTS:ObjectName="{5BF7B5CC-1D3F-448E-A607-5712705DE870}"
+              DTS:ValueIndex="0"
+              DTS:VariableName="User::FTP_PATH3" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{0786E3D6-7731-4208-94A2-D854510B0B5F}"
+              DTS:ObjectName="{0786E3D6-7731-4208-94A2-D854510B0B5F}"
+              DTS:ValueIndex="1"
+              DTS:VariableName="User::LocalPathWithBaseFolder3" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{C79FF219-3AF8-4E03-B5C7-6FB44DE1DE54}"
+              DTS:ObjectName="{C79FF219-3AF8-4E03-B5C7-6FB44DE1DE54}"
+              DTS:ValueIndex="2"
+              DTS:VariableName="User::LATESTMAXBK3" />
+          </DTS:ForEachVariableMappings>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 4"
+          DTS:CreationName="STOCK:FOREACHLOOP"
+          DTS:Description="Foreach Loop Container"
+          DTS:DTSID="{71315E95-6357-4FE3-A270-B60E4BBAD221}"
+          DTS:ExecutableType="STOCK:FOREACHLOOP"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Foreach Loop Container 4">
+          <DTS:ForEachEnumerator
+            DTS:CreationName="Microsoft.ForEachADOEnumerator"
+            DTS:DTSID="{8FD19684-17E7-492C-B8B2-AD40C365F601}"
+            DTS:ObjectName="{8FD19684-17E7-492C-B8B2-AD40C365F601}">
+            <DTS:ObjectData>
+              <FEEADO
+                EnumType="EnumerateRowsInFirstTable"
+                VarName="User::Subfolders4" />
+            </DTS:ObjectData>
+          </DTS:ForEachEnumerator>
+          <DTS:Variables />
+          <DTS:Executables>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 4\File System Task"
+              DTS:CreationName="Microsoft.FileSystemTask"
+              DTS:Description="File System Task"
+              DTS:DTSID="{E2C3D9FD-8B2A-4068-99E7-AFDDF2AB89DD}"
+              DTS:ExecutableType="Microsoft.FileSystemTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="File System Task"
+              DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="2">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FileSystemData
+                  TaskOperationType="CreateDirectory"
+                  TaskOverwriteDestFile="True"
+                  TaskSourcePath="User::Autocreatedfolderpath4"
+                  TaskIsSourceVariable="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+            <DTS:Executable
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 4\FTP Task"
+              DTS:CreationName="Microsoft.FtpTask"
+              DTS:Description="FTP Task"
+              DTS:DTSID="{26A8077E-42D9-45CA-B2ED-1E85ABFA9689}"
+              DTS:ExecutableType="Microsoft.FtpTask"
+              DTS:LocaleID="-1"
+              DTS:ObjectName="FTP Task"
+              DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+              DTS:ThreadHint="2">
+              <DTS:Variables />
+              <DTS:ObjectData>
+                <FtpData
+                  ConnectionName="{5cb50219-27ce-4845-8607-9244459335c1}"
+                  TaskOperationType="Receive"
+                  TaskIsLocalPathVar="True"
+                  TaskLocalPath="User::Autocreatedfolderpath4"
+                  TaskIsRemotePathVar="True"
+                  TaskRemotePath="User::ActualFTPpath4"
+                  TaskOverwriteDest="True" />
+              </DTS:ObjectData>
+            </DTS:Executable>
+          </DTS:Executables>
+          <DTS:PrecedenceConstraints>
+            <DTS:PrecedenceConstraint
+              DTS:refId="Package\Download Parallel Based on Subsets\Foreach Loop Container 4.PrecedenceConstraints[Constraint]"
+              DTS:CreationName=""
+              DTS:DTSID="{52E0BC31-E258-4F01-8E9F-506C4EE40197}"
+              DTS:From="Package\Download Parallel Based on Subsets\Foreach Loop Container 4\File System Task"
+              DTS:LogicalAnd="True"
+              DTS:ObjectName="Constraint"
+              DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container 4\FTP Task" />
+          </DTS:PrecedenceConstraints>
+          <DTS:ForEachVariableMappings>
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{698DEF4A-882A-41BA-803B-CC47A191A5FA}"
+              DTS:ObjectName="{698DEF4A-882A-41BA-803B-CC47A191A5FA}"
+              DTS:ValueIndex="0"
+              DTS:VariableName="User::FTP_PATH4" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{2D6A30C7-AE6B-4330-A5D1-5D34AF4F9401}"
+              DTS:ObjectName="{2D6A30C7-AE6B-4330-A5D1-5D34AF4F9401}"
+              DTS:ValueIndex="1"
+              DTS:VariableName="User::LocalPathWithBaseFolder4" />
+            <DTS:ForEachVariableMapping
+              DTS:CreationName=""
+              DTS:DTSID="{46939F96-7BE7-480E-ADD2-B55EF6F9A5D0}"
+              DTS:ObjectName="{46939F96-7BE7-480E-ADD2-B55EF6F9A5D0}"
+              DTS:ValueIndex="2"
+              DTS:VariableName="User::LATESTMAXBK4" />
+          </DTS:ForEachVariableMappings>
+        </DTS:Executable>
+      </DTS:Executables>
+      <DTS:PrecedenceConstraints>
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint]"
+          DTS:CreationName=""
+          DTS:DTSID="{D09C82CF-C171-42E2-B1AF-05A32BBA9FBF}"
+          DTS:From="Package\Download Parallel Based on Subsets\Folders &amp; Files 2"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint"
+          DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container 2" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint 1]"
+          DTS:CreationName=""
+          DTS:DTSID="{4F01F73D-6204-4D50-A8E0-1E4E1D5BD579}"
+          DTS:From="Package\Download Parallel Based on Subsets\Folders &amp; Files 3"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 1"
+          DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container 3" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint 2]"
+          DTS:CreationName=""
+          DTS:DTSID="{BAACC571-5876-4001-A020-46D22A69A204}"
+          DTS:From="Package\Download Parallel Based on Subsets\Folders &amp; Files 1"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 2"
+          DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container 1" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint 3]"
+          DTS:CreationName=""
+          DTS:DTSID="{F42E0939-5F3D-4CF8-A9F4-C320B0570E68}"
+          DTS:From="Package\Download Parallel Based on Subsets\Folders &amp; Files 4"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 3"
+          DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container 4" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint 4]"
+          DTS:CreationName=""
+          DTS:DTSID="{1994A173-1D61-47AB-A2F8-4583D103FE7B}"
+          DTS:From="Package\Download Parallel Based on Subsets\Folders &amp; Files 5"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 4"
+          DTS:To="Package\Download Parallel Based on Subsets\Foreach Loop Container" />
+      </DTS:PrecedenceConstraints>
     </DTS:Executable>
     <DTS:Executable
       DTS:refId="Package\Foreach Loop Container"
@@ -661,14 +1387,35 @@
               ReadOnlyVariables="User::COMCOD,User::FTP_PATH,User::ID"
               ReadWriteVariables="User::LATESTBK,User::LATESTBKCOUNT,User::LATESTMAXBK,User::TOTALFILE,User::UPLDATE">
               <ProjectItem
-                Name="Properties\Settings.settings"
-                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+                Name="Properties\AssemblyInfo.cs"
+                Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_cc62fe23f4ba412b9f8f35c2c1ae872b")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_cc62fe23f4ba412b9f8f35c2c1ae872b")]
+[assembly: AssemblyCopyright("Copyright @  2023")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.resx"
                 Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -1122,35 +1869,14 @@ namespace ST_cc62fe23f4ba412b9f8f35c2c1ae872b.Properties {
     }
 }]]></ProjectItem>
               <ProjectItem
-                Name="Properties\AssemblyInfo.cs"
-                Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_cc62fe23f4ba412b9f8f35c2c1ae872b")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_cc62fe23f4ba412b9f8f35c2c1ae872b")]
-[assembly: AssemblyCopyright("Copyright @  2023")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+                Name="Properties\Settings.settings"
+                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.Designer.cs"
                 Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -1447,513 +2173,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           DTS:VariableName="User::TOTALFILE" />
       </DTS:ForEachVariableMappings>
     </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\Sequence Container"
-      DTS:CreationName="STOCK:SEQUENCE"
-      DTS:Description="Sequence Container"
-      DTS:DTSID="{5FF0BADF-7A4F-440D-9097-E4A3E76ED6C6}"
-      DTS:ExecutableType="STOCK:SEQUENCE"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Sequence Container">
-      <DTS:Variables />
-      <DTS:Executables>
-        <DTS:Executable
-          DTS:refId="Package\Sequence Container\Execute SQL Task"
-          DTS:CreationName="Microsoft.ExecuteSQLTask"
-          DTS:Description="Execute SQL Task"
-          DTS:DTSID="{C646B1B1-1EF8-453D-BC66-46BF4966A3C2}"
-          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Execute SQL Task"
-          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="3">
-          <DTS:Variables />
-          <DTS:ObjectData>
-            <SQLTask:SqlTaskData
-              SQLTask:Connection="{3BF96326-DA92-40C8-A83D-14DE7ACF1B4A}"
-              SQLTask:SqlStatementSource="select substring(ftppath,2,len(ftppath)-1) as ftppath, substring(replace(ftppath,'/','\'),2,len(ftppath)-2) as localpath,latestmaxbk from [dbo].[backupstatus] &#xA;where upldate=FORMAT(GETDATE(), 'yyyy-MMM-dd') and id between 11 and 20"
-              SQLTask:ResultType="ResultSetType_Rowset" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
-              <SQLTask:ResultBinding
-                SQLTask:ResultName="0"
-                SQLTask:DtsVariableName="User::Subfolders2" />
-            </SQLTask:SqlTaskData>
-          </DTS:ObjectData>
-        </DTS:Executable>
-        <DTS:Executable
-          DTS:refId="Package\Sequence Container\Execute SQL Task 1"
-          DTS:CreationName="Microsoft.ExecuteSQLTask"
-          DTS:Description="Execute SQL Task"
-          DTS:DTSID="{419A36F1-66CF-4D47-A551-FB297B18A415}"
-          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Execute SQL Task 1"
-          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="2">
-          <DTS:Variables />
-          <DTS:ObjectData>
-            <SQLTask:SqlTaskData
-              SQLTask:Connection="{3BF96326-DA92-40C8-A83D-14DE7ACF1B4A}"
-              SQLTask:SqlStatementSource="select substring(ftppath,2,len(ftppath)-1) as ftppath, substring(replace(ftppath,'/','\'),2,len(ftppath)-2) as localpath,latestmaxbk from [dbo].[backupstatus] &#xA;where upldate=FORMAT(GETDATE(), 'yyyy-MMM-dd') and id between 21 and 30"
-              SQLTask:ResultType="ResultSetType_Rowset" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
-              <SQLTask:ResultBinding
-                SQLTask:ResultName="0"
-                SQLTask:DtsVariableName="User::Subfolders3" />
-            </SQLTask:SqlTaskData>
-          </DTS:ObjectData>
-        </DTS:Executable>
-        <DTS:Executable
-          DTS:refId="Package\Sequence Container\Execute SQL Task 2"
-          DTS:CreationName="Microsoft.ExecuteSQLTask"
-          DTS:Description="Execute SQL Task"
-          DTS:DTSID="{92B0794A-00B7-4376-866B-00DB9BEA6093}"
-          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Execute SQL Task 2"
-          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
-          <DTS:Variables />
-          <DTS:ObjectData>
-            <SQLTask:SqlTaskData
-              SQLTask:Connection="{3BF96326-DA92-40C8-A83D-14DE7ACF1B4A}"
-              SQLTask:SqlStatementSource="select substring(ftppath,2,len(ftppath)-1) as ftppath, substring(replace(ftppath,'/','\'),2,len(ftppath)-2) as localpath,latestmaxbk from [dbo].[backupstatus] &#xA;where upldate=FORMAT(GETDATE(), 'yyyy-MMM-dd') and id between 31 and 40"
-              SQLTask:ResultType="ResultSetType_Rowset" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
-              <SQLTask:ResultBinding
-                SQLTask:ResultName="0"
-                SQLTask:DtsVariableName="User::Subfolders4" />
-            </SQLTask:SqlTaskData>
-          </DTS:ObjectData>
-        </DTS:Executable>
-        <DTS:Executable
-          DTS:refId="Package\Sequence Container\Folders &amp; Files 1"
-          DTS:CreationName="Microsoft.ExecuteSQLTask"
-          DTS:Description="Execute SQL Task"
-          DTS:DTSID="{0D55BEB9-CAC2-4318-8D60-9AB03D61F424}"
-          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Folders &amp; Files 1"
-          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="0">
-          <DTS:Variables />
-          <DTS:ObjectData>
-            <SQLTask:SqlTaskData
-              SQLTask:Connection="{3BF96326-DA92-40C8-A83D-14DE7ACF1B4A}"
-              SQLTask:SqlStatementSource="select substring(ftppath,2,len(ftppath)-1) as ftppath, substring(replace(ftppath,'/','\'),2,len(ftppath)-2) as localpath,latestmaxbk from [dbo].[backupstatus] &#xA;where upldate=FORMAT(GETDATE(), 'yyyy-MMM-dd') and id between 1 and 10"
-              SQLTask:ResultType="ResultSetType_Rowset" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
-              <SQLTask:ResultBinding
-                SQLTask:ResultName="0"
-                SQLTask:DtsVariableName="User::Subfolders1" />
-            </SQLTask:SqlTaskData>
-          </DTS:ObjectData>
-        </DTS:Executable>
-        <DTS:Executable
-          DTS:refId="Package\Sequence Container\Foreach Loop Container"
-          DTS:CreationName="STOCK:FOREACHLOOP"
-          DTS:Description="Foreach Loop Container"
-          DTS:DTSID="{4F8BB0C4-D8E1-419D-A065-65DF9B3BD972}"
-          DTS:ExecutableType="STOCK:FOREACHLOOP"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Foreach Loop Container">
-          <DTS:ForEachEnumerator
-            DTS:CreationName="Microsoft.ForEachADOEnumerator"
-            DTS:DTSID="{1E413F97-04AB-4593-8AC3-B871D5938B56}"
-            DTS:ObjectName="{1E413F97-04AB-4593-8AC3-B871D5938B56}">
-            <DTS:ObjectData>
-              <FEEADO
-                EnumType="EnumerateRowsInFirstTable"
-                VarName="User::Subfolders2" />
-            </DTS:ObjectData>
-          </DTS:ForEachEnumerator>
-          <DTS:Variables />
-          <DTS:Executables>
-            <DTS:Executable
-              DTS:refId="Package\Sequence Container\Foreach Loop Container\File System Task"
-              DTS:CreationName="Microsoft.FileSystemTask"
-              DTS:Description="File System Task"
-              DTS:DTSID="{E1E4E165-2169-4275-B6E8-11B9BFE5C74D}"
-              DTS:ExecutableType="Microsoft.FileSystemTask"
-              DTS:LocaleID="-1"
-              DTS:ObjectName="File System Task"
-              DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="3">
-              <DTS:Variables />
-              <DTS:ObjectData>
-                <FileSystemData
-                  TaskOperationType="CreateDirectory"
-                  TaskOverwriteDestFile="True"
-                  TaskSourcePath="User::Autocreatedfolderpath2"
-                  TaskIsSourceVariable="True" />
-              </DTS:ObjectData>
-            </DTS:Executable>
-            <DTS:Executable
-              DTS:refId="Package\Sequence Container\Foreach Loop Container\FTP Task"
-              DTS:CreationName="Microsoft.FtpTask"
-              DTS:Description="FTP Task"
-              DTS:DTSID="{0D1BC61E-0B9A-4C52-A871-9236FB1569BA}"
-              DTS:ExecutableType="Microsoft.FtpTask"
-              DTS:LocaleID="-1"
-              DTS:ObjectName="FTP Task"
-              DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="3">
-              <DTS:Variables />
-              <DTS:ObjectData>
-                <FtpData
-                  ConnectionName="{d7a2b4dc-da58-4a78-bd79-5ae71de0f32f}"
-                  TaskOperationType="Receive"
-                  TaskIsLocalPathVar="True"
-                  TaskLocalPath="User::Autocreatedfolderpath2"
-                  TaskIsRemotePathVar="True"
-                  TaskRemotePath="User::ActualFTPpath2"
-                  TaskOverwriteDest="True" />
-              </DTS:ObjectData>
-            </DTS:Executable>
-          </DTS:Executables>
-          <DTS:PrecedenceConstraints>
-            <DTS:PrecedenceConstraint
-              DTS:refId="Package\Sequence Container\Foreach Loop Container.PrecedenceConstraints[Constraint]"
-              DTS:CreationName=""
-              DTS:DTSID="{DA7EC6F2-01F3-413A-8002-AC4C59905009}"
-              DTS:From="Package\Sequence Container\Foreach Loop Container\File System Task"
-              DTS:LogicalAnd="True"
-              DTS:ObjectName="Constraint"
-              DTS:To="Package\Sequence Container\Foreach Loop Container\FTP Task" />
-          </DTS:PrecedenceConstraints>
-          <DTS:ForEachVariableMappings>
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{A26ACD41-3ACA-42CC-AD6D-1BA27751F22D}"
-              DTS:ObjectName="{A26ACD41-3ACA-42CC-AD6D-1BA27751F22D}"
-              DTS:ValueIndex="0"
-              DTS:VariableName="User::FTP_PATH2" />
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{F3DE1D78-2FD1-4882-9890-D862AD35B0DF}"
-              DTS:ObjectName="{F3DE1D78-2FD1-4882-9890-D862AD35B0DF}"
-              DTS:ValueIndex="1"
-              DTS:VariableName="User::LocalPathWithBaseFolder2" />
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{0ED38954-28BA-423D-A42E-FFDD1764BE02}"
-              DTS:ObjectName="{0ED38954-28BA-423D-A42E-FFDD1764BE02}"
-              DTS:ValueIndex="2"
-              DTS:VariableName="User::LATESTMAXBK2" />
-          </DTS:ForEachVariableMappings>
-        </DTS:Executable>
-        <DTS:Executable
-          DTS:refId="Package\Sequence Container\Foreach Loop Container 1"
-          DTS:CreationName="STOCK:FOREACHLOOP"
-          DTS:Description="Foreach Loop Container"
-          DTS:DTSID="{261A93D1-5500-4BC4-8520-3D10D8A40E11}"
-          DTS:ExecutableType="STOCK:FOREACHLOOP"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Foreach Loop Container 1">
-          <DTS:ForEachEnumerator
-            DTS:CreationName="Microsoft.ForEachADOEnumerator"
-            DTS:DTSID="{C2AB7720-0B06-4B29-89E0-C8B0A00037B5}"
-            DTS:ObjectName="{C2AB7720-0B06-4B29-89E0-C8B0A00037B5}">
-            <DTS:ObjectData>
-              <FEEADO
-                EnumType="EnumerateRowsInFirstTable"
-                VarName="User::Subfolders1" />
-            </DTS:ObjectData>
-          </DTS:ForEachEnumerator>
-          <DTS:Variables />
-          <DTS:Executables>
-            <DTS:Executable
-              DTS:refId="Package\Sequence Container\Foreach Loop Container 1\File System Task"
-              DTS:CreationName="Microsoft.FileSystemTask"
-              DTS:Description="File System Task"
-              DTS:DTSID="{CBCF4819-4E3E-4157-9037-9ED336FFD514}"
-              DTS:ExecutableType="Microsoft.FileSystemTask"
-              DTS:LocaleID="-1"
-              DTS:ObjectName="File System Task"
-              DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="0">
-              <DTS:Variables />
-              <DTS:ObjectData>
-                <FileSystemData
-                  TaskOperationType="CreateDirectory"
-                  TaskOverwriteDestFile="True"
-                  TaskSourcePath="User::Autocreatedfolderpath"
-                  TaskIsSourceVariable="True" />
-              </DTS:ObjectData>
-            </DTS:Executable>
-            <DTS:Executable
-              DTS:refId="Package\Sequence Container\Foreach Loop Container 1\FTP Task"
-              DTS:CreationName="Microsoft.FtpTask"
-              DTS:Description="FTP Task"
-              DTS:DTSID="{EA6DA43F-0A6F-466E-829F-729C2142C15A}"
-              DTS:ExecutableType="Microsoft.FtpTask"
-              DTS:LocaleID="-1"
-              DTS:ObjectName="FTP Task"
-              DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="0">
-              <DTS:Variables />
-              <DTS:ObjectData>
-                <FtpData
-                  ConnectionName="{377E87B6-60E9-40C7-8E96-CC5A3CF80C95}"
-                  StopOnFailure="False"
-                  TaskOperationType="Receive"
-                  TaskIsLocalPathVar="True"
-                  TaskLocalPath="User::Autocreatedfolderpath"
-                  TaskIsRemotePathVar="True"
-                  TaskRemotePath="User::ActualFTPpath"
-                  TaskOverwriteDest="True" />
-              </DTS:ObjectData>
-            </DTS:Executable>
-          </DTS:Executables>
-          <DTS:PrecedenceConstraints>
-            <DTS:PrecedenceConstraint
-              DTS:refId="Package\Sequence Container\Foreach Loop Container 1.PrecedenceConstraints[Constraint]"
-              DTS:CreationName=""
-              DTS:DTSID="{ED11BBD4-143A-4E8E-9CAD-F9ADD2D20B4E}"
-              DTS:From="Package\Sequence Container\Foreach Loop Container 1\File System Task"
-              DTS:LogicalAnd="True"
-              DTS:ObjectName="Constraint"
-              DTS:To="Package\Sequence Container\Foreach Loop Container 1\FTP Task" />
-          </DTS:PrecedenceConstraints>
-          <DTS:ForEachVariableMappings>
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{810572EE-B155-4EAC-8F8B-196C864BF9FD}"
-              DTS:ObjectName="{810572EE-B155-4EAC-8F8B-196C864BF9FD}"
-              DTS:ValueIndex="0"
-              DTS:VariableName="User::FTP_PATH" />
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{5A0B3BA6-CA1C-4BFE-8169-DEFC80E77F69}"
-              DTS:ObjectName="{5A0B3BA6-CA1C-4BFE-8169-DEFC80E77F69}"
-              DTS:ValueIndex="1"
-              DTS:VariableName="User::LocalPathWithBaseFolder" />
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{336F5911-487A-4F1E-924A-3564A4C21CAF}"
-              DTS:ObjectName="{336F5911-487A-4F1E-924A-3564A4C21CAF}"
-              DTS:ValueIndex="2"
-              DTS:VariableName="User::LATESTMAXBK" />
-          </DTS:ForEachVariableMappings>
-        </DTS:Executable>
-        <DTS:Executable
-          DTS:refId="Package\Sequence Container\Foreach Loop Container 2"
-          DTS:CreationName="STOCK:FOREACHLOOP"
-          DTS:Description="Foreach Loop Container"
-          DTS:DTSID="{8115B6F0-D7CD-4C3E-B84A-386864B1CADB}"
-          DTS:ExecutableType="STOCK:FOREACHLOOP"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Foreach Loop Container 2">
-          <DTS:ForEachEnumerator
-            DTS:CreationName="Microsoft.ForEachADOEnumerator"
-            DTS:DTSID="{45A97EAD-7041-4DD4-8DEC-451583CD2FB7}"
-            DTS:ObjectName="{45A97EAD-7041-4DD4-8DEC-451583CD2FB7}">
-            <DTS:ObjectData>
-              <FEEADO
-                EnumType="EnumerateRowsInFirstTable"
-                VarName="User::Subfolders3" />
-            </DTS:ObjectData>
-          </DTS:ForEachEnumerator>
-          <DTS:Variables />
-          <DTS:Executables>
-            <DTS:Executable
-              DTS:refId="Package\Sequence Container\Foreach Loop Container 2\File System Task"
-              DTS:CreationName="Microsoft.FileSystemTask"
-              DTS:Description="File System Task"
-              DTS:DTSID="{C02226C2-6EFD-45B6-8D63-E8439DF541E2}"
-              DTS:ExecutableType="Microsoft.FileSystemTask"
-              DTS:LocaleID="-1"
-              DTS:ObjectName="File System Task"
-              DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="2">
-              <DTS:Variables />
-              <DTS:ObjectData>
-                <FileSystemData
-                  TaskOperationType="CreateDirectory"
-                  TaskOverwriteDestFile="True"
-                  TaskSourcePath="User::Autocreatedfolderpath3"
-                  TaskIsSourceVariable="True" />
-              </DTS:ObjectData>
-            </DTS:Executable>
-            <DTS:Executable
-              DTS:refId="Package\Sequence Container\Foreach Loop Container 2\FTP Task"
-              DTS:CreationName="Microsoft.FtpTask"
-              DTS:Description="FTP Task"
-              DTS:DTSID="{2C41F377-AA55-4B54-B414-DC287E379E80}"
-              DTS:ExecutableType="Microsoft.FtpTask"
-              DTS:LocaleID="-1"
-              DTS:ObjectName="FTP Task"
-              DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="2">
-              <DTS:Variables />
-              <DTS:ObjectData>
-                <FtpData
-                  ConnectionName="{c6f6ee74-28da-47f6-842d-9634c403e213}"
-                  TaskOperationType="Receive"
-                  TaskIsLocalPathVar="True"
-                  TaskLocalPath="User::Autocreatedfolderpath3"
-                  TaskIsRemotePathVar="True"
-                  TaskRemotePath="User::ActualFTPpath3"
-                  TaskOverwriteDest="True" />
-              </DTS:ObjectData>
-            </DTS:Executable>
-          </DTS:Executables>
-          <DTS:PrecedenceConstraints>
-            <DTS:PrecedenceConstraint
-              DTS:refId="Package\Sequence Container\Foreach Loop Container 2.PrecedenceConstraints[Constraint]"
-              DTS:CreationName=""
-              DTS:DTSID="{EB2260A3-22D0-438F-B307-665B81922AF9}"
-              DTS:From="Package\Sequence Container\Foreach Loop Container 2\File System Task"
-              DTS:LogicalAnd="True"
-              DTS:ObjectName="Constraint"
-              DTS:To="Package\Sequence Container\Foreach Loop Container 2\FTP Task" />
-          </DTS:PrecedenceConstraints>
-          <DTS:ForEachVariableMappings>
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{5BF7B5CC-1D3F-448E-A607-5712705DE870}"
-              DTS:ObjectName="{5BF7B5CC-1D3F-448E-A607-5712705DE870}"
-              DTS:ValueIndex="0"
-              DTS:VariableName="User::FTP_PATH3" />
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{0786E3D6-7731-4208-94A2-D854510B0B5F}"
-              DTS:ObjectName="{0786E3D6-7731-4208-94A2-D854510B0B5F}"
-              DTS:ValueIndex="1"
-              DTS:VariableName="User::LocalPathWithBaseFolder3" />
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{C79FF219-3AF8-4E03-B5C7-6FB44DE1DE54}"
-              DTS:ObjectName="{C79FF219-3AF8-4E03-B5C7-6FB44DE1DE54}"
-              DTS:ValueIndex="2"
-              DTS:VariableName="User::LATESTMAXBK3" />
-          </DTS:ForEachVariableMappings>
-        </DTS:Executable>
-        <DTS:Executable
-          DTS:refId="Package\Sequence Container\Foreach Loop Container 3"
-          DTS:CreationName="STOCK:FOREACHLOOP"
-          DTS:Description="Foreach Loop Container"
-          DTS:DTSID="{71315E95-6357-4FE3-A270-B60E4BBAD221}"
-          DTS:ExecutableType="STOCK:FOREACHLOOP"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Foreach Loop Container 3">
-          <DTS:ForEachEnumerator
-            DTS:CreationName="Microsoft.ForEachADOEnumerator"
-            DTS:DTSID="{8FD19684-17E7-492C-B8B2-AD40C365F601}"
-            DTS:ObjectName="{8FD19684-17E7-492C-B8B2-AD40C365F601}">
-            <DTS:ObjectData>
-              <FEEADO
-                EnumType="EnumerateRowsInFirstTable"
-                VarName="User::Subfolders4" />
-            </DTS:ObjectData>
-          </DTS:ForEachEnumerator>
-          <DTS:Variables />
-          <DTS:Executables>
-            <DTS:Executable
-              DTS:refId="Package\Sequence Container\Foreach Loop Container 3\File System Task"
-              DTS:CreationName="Microsoft.FileSystemTask"
-              DTS:Description="File System Task"
-              DTS:DTSID="{E2C3D9FD-8B2A-4068-99E7-AFDDF2AB89DD}"
-              DTS:ExecutableType="Microsoft.FileSystemTask"
-              DTS:LocaleID="-1"
-              DTS:ObjectName="File System Task"
-              DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="1">
-              <DTS:Variables />
-              <DTS:ObjectData>
-                <FileSystemData
-                  TaskOperationType="CreateDirectory"
-                  TaskOverwriteDestFile="True"
-                  TaskSourcePath="User::Autocreatedfolderpath4"
-                  TaskIsSourceVariable="True" />
-              </DTS:ObjectData>
-            </DTS:Executable>
-            <DTS:Executable
-              DTS:refId="Package\Sequence Container\Foreach Loop Container 3\FTP Task"
-              DTS:CreationName="Microsoft.FtpTask"
-              DTS:Description="FTP Task"
-              DTS:DTSID="{26A8077E-42D9-45CA-B2ED-1E85ABFA9689}"
-              DTS:ExecutableType="Microsoft.FtpTask"
-              DTS:LocaleID="-1"
-              DTS:ObjectName="FTP Task"
-              DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="1">
-              <DTS:Variables />
-              <DTS:ObjectData>
-                <FtpData
-                  ConnectionName="{5cb50219-27ce-4845-8607-9244459335c1}"
-                  TaskOperationType="Receive"
-                  TaskIsLocalPathVar="True"
-                  TaskLocalPath="User::Autocreatedfolderpath4"
-                  TaskIsRemotePathVar="True"
-                  TaskRemotePath="User::ActualFTPpath4"
-                  TaskOverwriteDest="True" />
-              </DTS:ObjectData>
-            </DTS:Executable>
-          </DTS:Executables>
-          <DTS:PrecedenceConstraints>
-            <DTS:PrecedenceConstraint
-              DTS:refId="Package\Sequence Container\Foreach Loop Container 3.PrecedenceConstraints[Constraint]"
-              DTS:CreationName=""
-              DTS:DTSID="{52E0BC31-E258-4F01-8E9F-506C4EE40197}"
-              DTS:From="Package\Sequence Container\Foreach Loop Container 3\File System Task"
-              DTS:LogicalAnd="True"
-              DTS:ObjectName="Constraint"
-              DTS:To="Package\Sequence Container\Foreach Loop Container 3\FTP Task" />
-          </DTS:PrecedenceConstraints>
-          <DTS:ForEachVariableMappings>
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{698DEF4A-882A-41BA-803B-CC47A191A5FA}"
-              DTS:ObjectName="{698DEF4A-882A-41BA-803B-CC47A191A5FA}"
-              DTS:ValueIndex="0"
-              DTS:VariableName="User::FTP_PATH4" />
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{2D6A30C7-AE6B-4330-A5D1-5D34AF4F9401}"
-              DTS:ObjectName="{2D6A30C7-AE6B-4330-A5D1-5D34AF4F9401}"
-              DTS:ValueIndex="1"
-              DTS:VariableName="User::LocalPathWithBaseFolder4" />
-            <DTS:ForEachVariableMapping
-              DTS:CreationName=""
-              DTS:DTSID="{46939F96-7BE7-480E-ADD2-B55EF6F9A5D0}"
-              DTS:ObjectName="{46939F96-7BE7-480E-ADD2-B55EF6F9A5D0}"
-              DTS:ValueIndex="2"
-              DTS:VariableName="User::LATESTMAXBK4" />
-          </DTS:ForEachVariableMappings>
-        </DTS:Executable>
-      </DTS:Executables>
-      <DTS:PrecedenceConstraints>
-        <DTS:PrecedenceConstraint
-          DTS:refId="Package\Sequence Container.PrecedenceConstraints[Constraint]"
-          DTS:CreationName=""
-          DTS:DTSID="{D09C82CF-C171-42E2-B1AF-05A32BBA9FBF}"
-          DTS:From="Package\Sequence Container\Execute SQL Task"
-          DTS:LogicalAnd="True"
-          DTS:ObjectName="Constraint"
-          DTS:To="Package\Sequence Container\Foreach Loop Container" />
-        <DTS:PrecedenceConstraint
-          DTS:refId="Package\Sequence Container.PrecedenceConstraints[Constraint 1]"
-          DTS:CreationName=""
-          DTS:DTSID="{4F01F73D-6204-4D50-A8E0-1E4E1D5BD579}"
-          DTS:From="Package\Sequence Container\Execute SQL Task 1"
-          DTS:LogicalAnd="True"
-          DTS:ObjectName="Constraint 1"
-          DTS:To="Package\Sequence Container\Foreach Loop Container 2" />
-        <DTS:PrecedenceConstraint
-          DTS:refId="Package\Sequence Container.PrecedenceConstraints[Constraint 2]"
-          DTS:CreationName=""
-          DTS:DTSID="{BAACC571-5876-4001-A020-46D22A69A204}"
-          DTS:From="Package\Sequence Container\Folders &amp; Files 1"
-          DTS:LogicalAnd="True"
-          DTS:ObjectName="Constraint 2"
-          DTS:To="Package\Sequence Container\Foreach Loop Container 1" />
-        <DTS:PrecedenceConstraint
-          DTS:refId="Package\Sequence Container.PrecedenceConstraints[Constraint 3]"
-          DTS:CreationName=""
-          DTS:DTSID="{F42E0939-5F3D-4CF8-A9F4-C320B0570E68}"
-          DTS:From="Package\Sequence Container\Execute SQL Task 2"
-          DTS:LogicalAnd="True"
-          DTS:ObjectName="Constraint 3"
-          DTS:To="Package\Sequence Container\Foreach Loop Container 3" />
-      </DTS:PrecedenceConstraints>
-    </DTS:Executable>
   </DTS:Executables>
   <DTS:PrecedenceConstraints>
     <DTS:PrecedenceConstraint
@@ -1971,7 +2190,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
       DTS:From="Package\Foreach Loop Container"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 1"
-      DTS:To="Package\Sequence Container" />
+      DTS:To="Package\Download Parallel Based on Subsets" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -1984,11 +2203,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="141,42"
           Id="Package\All FTP Path"
-          TopLeft="389,4" />
+          TopLeft="756.5,9" />
         <NodeLayout
           Size="170,42"
           Id="Package\Foreach Loop Container\Execute SQL Task"
@@ -2025,84 +2244,33 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           PanelSize="246,155"
           Size="246,198"
           Id="Package\Foreach Loop Container"
-          TopLeft="312,85" />
+          TopLeft="702,126.25" />
         <NodeLayout
           Size="161,42"
-          Id="Package\Sequence Container\Folders &amp; Files 1"
+          Id="Package\Download Parallel Based on Subsets\Folders &amp; Files 2"
+          TopLeft="358,23" />
+        <NodeLayout
+          Size="161,42"
+          Id="Package\Download Parallel Based on Subsets\Folders &amp; Files 3"
+          TopLeft="652,23" />
+        <NodeLayout
+          Size="161,42"
+          Id="Package\Download Parallel Based on Subsets\Folders &amp; Files 4"
+          TopLeft="962.5,20.5" />
+        <NodeLayout
+          Size="161,42"
+          Id="Package\Download Parallel Based on Subsets\Folders &amp; Files 1"
           TopLeft="88,19.5" />
         <NodeLayout
           Size="163,42"
-          Id="Package\Sequence Container\Foreach Loop Container 1\File System Task"
-          TopLeft="44,18" />
-        <NodeLayout
-          Size="127,42"
-          Id="Package\Sequence Container\Foreach Loop Container 1\FTP Task"
-          TopLeft="57,102" />
-        <EdgeLayout
-          Id="Package\Sequence Container\Foreach Loop Container 1.PrecedenceConstraints[Constraint]"
-          TopLeft="123,60">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,42"
-              Start="0,0"
-              End="0,34.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,34.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <ContainerLayout
-          HeaderHeight="43"
-          IsExpanded="True"
-          PanelSize="242,158"
-          Size="242,201"
-          Id="Package\Sequence Container\Foreach Loop Container 1"
-          TopLeft="45.5,86.5" />
-        <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 2]"
-          TopLeft="167.5,61.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,25"
-              Start="0,0"
-              End="0,17.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,17.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="170,42"
-          Id="Package\Sequence Container\Execute SQL Task"
-          TopLeft="358,23" />
-        <NodeLayout
-          Size="163,42"
-          Id="Package\Sequence Container\Foreach Loop Container\File System Task"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 2\File System Task"
           TopLeft="45,7" />
         <NodeLayout
           Size="127,42"
-          Id="Package\Sequence Container\Foreach Loop Container\FTP Task"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 2\FTP Task"
           TopLeft="64,80" />
         <EdgeLayout
-          Id="Package\Sequence Container\Foreach Loop Container.PrecedenceConstraints[Constraint]"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 2.PrecedenceConstraints[Constraint]"
           TopLeft="127,49">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -2128,22 +2296,30 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           IsExpanded="True"
           PanelSize="251,145"
           Size="251,188"
-          Id="Package\Sequence Container\Foreach Loop Container"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 2"
           TopLeft="323,98" />
+        <NodeLayout
+          Size="163,42"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 1\File System Task"
+          TopLeft="44,18" />
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 1\FTP Task"
+          TopLeft="57,102" />
         <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint]"
-          TopLeft="445.75,65">
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 1.PrecedenceConstraints[Constraint]"
+          TopLeft="123,60">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,33"
+              EndConnector="0,42"
               Start="0,0"
-              End="0,25.5">
+              End="0,34.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,25.5" />
+                    End="0,34.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -2152,20 +2328,23 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="179,42"
-          Id="Package\Sequence Container\Execute SQL Task 1"
-          TopLeft="652,23" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="242,158"
+          Size="242,201"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 1"
+          TopLeft="45.5,86.5" />
         <NodeLayout
           Size="163,42"
-          Id="Package\Sequence Container\Foreach Loop Container 2\File System Task"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 3\File System Task"
           TopLeft="44,8" />
         <NodeLayout
           Size="127,42"
-          Id="Package\Sequence Container\Foreach Loop Container 2\FTP Task"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 3\FTP Task"
           TopLeft="61,81" />
         <EdgeLayout
-          Id="Package\Sequence Container\Foreach Loop Container 2.PrecedenceConstraints[Constraint]"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 3.PrecedenceConstraints[Constraint]"
           TopLeft="125,50">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -2189,46 +2368,20 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="259,149"
+          PanelSize="259,150"
           Size="259,193"
-          Id="Package\Sequence Container\Foreach Loop Container 2"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 3"
           TopLeft="619,94.5" />
-        <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 1]"
-          TopLeft="745,65">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,29.5"
-              Start="0,0"
-              End="0,22">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,22" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="179,42"
-          Id="Package\Sequence Container\Execute SQL Task 2"
-          TopLeft="1000,18" />
         <NodeLayout
           Size="163,42"
-          Id="Package\Sequence Container\Foreach Loop Container 3\File System Task"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 4\File System Task"
           TopLeft="35,11" />
         <NodeLayout
           Size="127,42"
-          Id="Package\Sequence Container\Foreach Loop Container 3\FTP Task"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 4\FTP Task"
           TopLeft="58,82" />
         <EdgeLayout
-          Id="Package\Sequence Container\Foreach Loop Container 3.PrecedenceConstraints[Constraint]"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 4.PrecedenceConstraints[Constraint]"
           TopLeft="119,53">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -2254,11 +2407,147 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           IsExpanded="True"
           PanelSize="265,152"
           Size="265,195"
-          Id="Package\Sequence Container\Foreach Loop Container 3"
-          TopLeft="964,93" />
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container 4"
+          TopLeft="926.5,95.5" />
         <EdgeLayout
-          Id="Package\Sequence Container.PrecedenceConstraints[Constraint 3]"
-          TopLeft="1093,60">
+          Id="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint]"
+          TopLeft="438.5,65">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="10,33"
+              Start="0,0"
+              End="10,25.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,12.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,12.5"
+                    Point2="0,16.5"
+                    Point3="4,16.5" />
+                  <mssgle:LineSegment
+                    End="6,16.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="6,16.5"
+                    Point2="10,16.5"
+                    Point3="10,20.5" />
+                  <mssgle:LineSegment
+                    End="10,25.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint 1]"
+          TopLeft="732.5,65">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="16,29.5"
+              Start="0,0"
+              End="16,22">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,10.75" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,10.75"
+                    Point2="0,14.75"
+                    Point3="4,14.75" />
+                  <mssgle:LineSegment
+                    End="12,14.75" />
+                  <mssgle:CubicBezierSegment
+                    Point1="12,14.75"
+                    Point2="16,14.75"
+                    Point3="16,18.75" />
+                  <mssgle:LineSegment
+                    End="16,22" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint 2]"
+          TopLeft="167.5,61.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,25"
+              Start="0,0"
+              End="0,17.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,17.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint 3]"
+          TopLeft="1043,62.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="16,33"
+              Start="0,0"
+              End="16,25.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,12.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,12.5"
+                    Point2="0,16.5"
+                    Point3="4,16.5" />
+                  <mssgle:LineSegment
+                    End="12,16.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="12,16.5"
+                    Point2="16,16.5"
+                    Point3="16,20.5" />
+                  <mssgle:LineSegment
+                    End="16,25.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="161,42"
+          Id="Package\Download Parallel Based on Subsets\Folders &amp; Files 5"
+          TopLeft="1264.5,19" />
+        <NodeLayout
+          Size="163,42"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container\File System Task"
+          TopLeft="48.25,12.25" />
+        <NodeLayout
+          Size="127,42"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container\FTP Task"
+          TopLeft="73.25,87.25" />
+        <EdgeLayout
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container.PrecedenceConstraints[Constraint]"
+          TopLeft="133.25,54.25">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -2281,36 +2570,65 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="1234,619"
-          Size="1234,662"
-          Id="Package\Sequence Container"
-          TopLeft="141,492" />
+          PanelSize="259,154"
+          Size="259,197"
+          Id="Package\Download Parallel Based on Subsets\Foreach Loop Container"
+          TopLeft="1234.5,95.25" />
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="459.5,46">
+          Id="Package\Download Parallel Based on Subsets.PrecedenceConstraints[Constraint 4]"
+          TopLeft="1345,61">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-24.5,39"
+              EndConnector="19.0000000000005,34.25"
               Start="0,0"
-              End="-24.5,31.5">
+              End="19.0000000000005,26.75">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,15.5" />
+                    End="0,13.125" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,15.5"
-                    Point2="0,19.5"
-                    Point3="-4,19.5" />
+                    Point1="0,13.125"
+                    Point2="0,17.125"
+                    Point3="4,17.125" />
                   <mssgle:LineSegment
-                    End="-20.5,19.5" />
+                    End="15.0000000000005,17.125" />
                   <mssgle:CubicBezierSegment
-                    Point1="-20.5,19.5"
-                    Point2="-24.5,19.5"
-                    Point3="-24.5,23.5" />
+                    Point1="15.0000000000005,17.125"
+                    Point2="19.0000000000005,17.125"
+                    Point3="19.0000000000005,21.125" />
                   <mssgle:LineSegment
-                    End="-24.5,31.5" />
+                    End="19.0000000000005,26.75" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="1528,314"
+          Size="1528,357"
+          Id="Package\Download Parallel Based on Subsets"
+          TopLeft="51,400.75" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="826,51">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,75.25"
+              Start="0,0"
+              End="0,67.75">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,67.75" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -2321,30 +2639,30 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="435,283">
+          TopLeft="825,324.25">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="323,209"
+              EndConnector="-10,76.5"
               Start="0,0"
-              End="323,201.5">
+              End="-10,69">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,100.5" />
+                    End="0,34.25" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,100.5"
-                    Point2="0,104.5"
-                    Point3="4,104.5" />
+                    Point1="0,34.25"
+                    Point2="0,38.25"
+                    Point3="-4,38.25" />
                   <mssgle:LineSegment
-                    End="319,104.5" />
+                    End="-6,38.25" />
                   <mssgle:CubicBezierSegment
-                    Point1="319,104.5"
-                    Point2="323,104.5"
-                    Point3="323,108.5" />
+                    Point1="-6,38.25"
+                    Point2="-10,38.25"
+                    Point3="-10,42.25" />
                   <mssgle:LineSegment
-                    End="323,201.5" />
+                    End="-10,69" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
