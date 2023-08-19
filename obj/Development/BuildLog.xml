@@ -2,18 +2,23 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>FTP File Download Project</Name>
-    <LastWriteTime>2023-08-15T20:05:05.3371758Z</LastWriteTime>
+    <LastWriteTime>2023-08-19T10:34:07.0161263Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>AllCompanyDatabaseBackup.dtsx</Name>
-      <LastWriteTime>2023-08-12T19:32:13.5626458Z</LastWriteTime>
+      <LastWriteTime>2023-08-18T14:05:25.6803177Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>CheckStatus.dtsx</Name>
+      <LastWriteTime>2023-08-19T10:41:15.8205776Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Package1.dtsx</Name>
-      <LastWriteTime>2023-08-16T23:30:40.3710052Z</LastWriteTime>
+      <LastWriteTime>2023-08-18T22:10:13.6997061Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
