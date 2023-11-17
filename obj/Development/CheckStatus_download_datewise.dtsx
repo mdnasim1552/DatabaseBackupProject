@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="CheckStatus_download_datewise"
   DTS:PackageType="5"
-  DTS:VersionBuild="108"
-  DTS:VersionGUID="{CD52F66A-0FAB-4495-9AEE-D280369FBD58}">
+  DTS:VersionBuild="112"
+  DTS:VersionGUID="{065DF9D6-78ED-4AED-9A43-97B9703E67E3}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -31,20 +31,8 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAh6hSNVryGmAwG4HCPer40QCPBMJbx9YgrFXuJY4tUoAAAAAAOgAAAAAIAACAAAABhihNi29rHjDITI7E9wNX6afH/U2F2frrp9it6OujYtTAAAACs0Q9c42L6b9J7WI20Geee3YdNbTt/O1bFk9QBixlxHZZBmrVqu7ddoYvX+jayithAAAAAtj5HrWck3LIpZKOb7Vva8UGf0ZUxer52IDVLEMs9VdH1AWkUgTxjfJ4Pai+0DoIWSy6wTGuVVYRamCv2ao75+g</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADkfWc76MpbU3hh6dgPVy+zLhSDXfb5lIV7Z7zbBw89NQAAAAAOgAAAAAIAACAAAAC+4VAloYSypbLIVO0Pxz3rB43BywjUXYddL1xi4Sik5jAAAAA1XdnMVxQTL4Efewl9FjWUOyZwG0MsZilku6n4JMWXmF8jCFchQ/4YEja6iFrWjeVAAAAAZD3oAswiIRCpRUFyIHub4hWxZZRoqRkjpAwElqCN37PQah1X4IsGO38ZEI3PS5vnK2Wylxmxo4dYo1ovBQvZLA</DTS:Password>
         </DTS:ConnectionManager>
-      </DTS:ObjectData>
-    </DTS:ConnectionManager>
-    <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[DESKTOP-J4FOB23.DapperDatabase]"
-      DTS:CreationName="OLEDB"
-      DTS:DTSID="{0513C081-6C63-49A4-B9E1-14D284F07DD9}"
-      DTS:ObjectName="DESKTOP-J4FOB23.DapperDatabase">
-      <DTS:ObjectData>
-        <DTS:ConnectionManager
-          DTS:ConnectRetryCount="1"
-          DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=DESKTOP-J4FOB23;Initial Catalog=DapperDatabase;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -68,7 +56,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACp5eASM4G/THWeooC12vsoXyevja4JXHBpxMtZ35B8oQAAAAAOgAAAAAIAACAAAAB9oQQo6X0t+Z0kqBIlLUBrWNFPC3YMV7ZxVvewshYDDSAAAAAtx2MNKW79f4vyb1mGVAJhuD/VWOI2i7bw/5QKQxUGeUAAAABsxT2BspSK6aW67Mzo/rXAz39Hn8FkQ6p9By3Wl7cALy46bnkr0fo82FGth5TuN9vkbBCKrKw1aKx+ytBHSbl6</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAVAcVrC7F/Nyceg5IiAJ66OAtkTg8z08/4G/3dQvmsKwAAAAAOgAAAAAIAACAAAADRRoeG6MIKFO479YjXUt9S47C0vl8n/ZijP9dzqwFriiAAAACKps18+DBWAFabsEaj4ch4TUlXmO/o1w8mlGb/dz4780AAAADjeg7VBQU+EFGMuOnR7+ubRSwFqgjvvMypCfpOf9urFyfRYKNOwEADei8sVmFOEb+Vt3sCGmOtZb2GpzOLafXT</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -94,7 +82,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAhCOmV/g+qjiJITd6MJ6+GhJaUKi6rNOTbmbL1255e6wAAAAAOgAAAAAIAACAAAACo1JDjZQSGJhR6YyB6AeV55vQl/7VDmZgex+KjzQV4JyAAAABcpV66zy0L1G6v+3HwvwYliTqwtwe35Fwygk7eVsydHEAAAAAqxEa4HGfmgKjKab/qBnWsbVtWW8x5OSh07vhsXJZK3KemfVHqeVz3PxmbBSYE3X/hKA65TH5TkpnHYEa1ZiHU</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACGjo8HQr9P/4Ij7lNJfEWSE9H/i6zqx9usg+1Czh9jOQAAAAAOgAAAAAIAACAAAAAm5uni/hnty3oW4k0YlCBrH0cRc51VzHyCr90LJ/dH5SAAAABmTQEZQdFnsaSE7c38temJXkyE6sUeArbSaLqfe9zBtkAAAABI8zkDMc6JcqX+s2jXQCfsd2SYmaUPSz8IP303Ct0G73EOdWZJUXBg/QTAusNc8he/qHM05yP3ppzKOngBLPA/</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -120,7 +108,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC2Hw/9TlQzUgv7W61wUPBjbVFOgMoiKWhPO53J8XJPiQAAAAAOgAAAAAIAACAAAABwsC3mknoZjJO/jm7JKigMaq8zOmFU76Usniukkx3AMiAAAACL+KDvuioNPktUFwomsx/Pky6e0Y+w7eJz0MntqVfHlEAAAACdVD8rlY/EH+YHwAx7oX/TlkxkbX1CjKWNNBG1W+cVBFdSqPcenegLE79UKupRLfEgQ3/iuZIjK1zdjNBmQzaK</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABw8jnQGf1EPaJMKKTXu41VexKWs26ZAHt+JCwPcmT4tQAAAAAOgAAAAAIAACAAAAAk9RyzdmmYxTCwZO+OwficEAgNVrsk7bxdcxPgXyTWKSAAAADmPDexr0SxFpoxuvcihw+2VwuSMtRRnjaXeVpYj3lcrEAAAAB4an+QZNYFiZi8cZpYmXitKPoosuHpYo4rBydv5NFwUR3uUi/ewE6B2eKpF4DXA+hhxr3RXfXligxhBpbDT4jq</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -146,7 +134,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABULnA15qeFRHhhzLoQykTg2WQO7Y0sWY2PBX8B+2qplgAAAAAOgAAAAAIAACAAAAB+3eNHKy+RzMdfuVYrIW39HR/9yKr+VHnljkFCNexOySAAAABgeR2WXwi/JIUeu0vMYVBRbuPY4CbWiWqSxC1znIDotUAAAADzTnOAUXTYL+BNHK5lEd22oaPrf0ghwjXb8SAB28xjXc3WlB8fEFc+7PcAn6zLDrS2EmS0ljuFLmzz/vas47Yu</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAATzslrbGPsEfN/wuqmUvf/78xCPstDaAcYI084MJx6nwAAAAAOgAAAAAIAACAAAAAZkPhMjh35YCg3hgf0LlOwpxINQTUt94KnzDH6NUzrXCAAAACe5lC1CZfZsEnejBfArQfny1LEmaoud8wFRzLuQieU2kAAAAAQcQ6/S7WfoWTL2AOjn/U9ZaG++iKpzIOYDvrbx8balZsRKa1/1RJnypN6auEpphDeHg/guKJquIEkHhejBsiS</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -172,13 +160,31 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABIyxvKF5y7Eg23hIFwe4nKPE7dUeR3ZtsbVD1xCqD4ugAAAAAOgAAAAAIAACAAAACu4Lz3pxBJ+QMiSK7uxlrXPPJy+FEid9J4tZR1VwySKSAAAAAxHVU+/P5RdvN2EA5az1Xu4Opit50xGtoIqHxii418/UAAAADDMDCS/xS/ADlCsJPASE48ZVzNgD0qoujYmlWeIaBbIHuOX3Qpk3ISRZZiP+hsFHA5RDKl0ogYaA/d7aBt9tsK</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYl87EVF6TUyeRzwGqHmi8QAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABJwAyqCsY+iz8SBBlwpNA2BZG9w2w/WHOfFPVGWYYjxQAAAAAOgAAAAAIAACAAAAC1Bpa2LiwA4YQn1Tyo9zGu/ixiNOeMI9vMh/D0+r8LSiAAAACOQF+/NdiNQHejlXdR08w9slsZvr+CIAKNLLrs7Fb800AAAACXa6sHUfsjquQNXntazGjLdADPln0TTWtS4L7zZMnLR6IWu0IWrZZ7kNQ5M2TPn2FG5CQlIE+e+zED5+T7FP1A</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
   <DTS:PackageParameters>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="8"
+      DTS:DTSID="{D744F89D-B9B6-4490-87CF-9772CD37472C}"
+      DTS:ObjectName="Basefolderpath">
+      <DTS:Property
+        DTS:DataType="8"
+        DTS:Name="ParameterValue">C:\Users\mdnas\OneDrive\Desktop</DTS:Property>
+    </DTS:PackageParameter>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="8"
+      DTS:DTSID="{0CD255E4-FF36-46E9-8BA3-40E4C78E3D7D}"
+      DTS:ObjectName="DatabaseName">
+      <DTS:Property
+        DTS:DataType="8"
+        DTS:Name="ParameterValue">ASITINTERIORDB</DTS:Property>
+    </DTS:PackageParameter>
     <DTS:PackageParameter
       DTS:CreationName=""
       DTS:DataType="8"
@@ -214,6 +220,33 @@
       <DTS:Property
         DTS:DataType="8"
         DTS:Name="ParameterValue">ftp-users</DTS:Property>
+    </DTS:PackageParameter>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="8"
+      DTS:DTSID="{05A891BF-1C8B-4B10-897D-2B3BABE9FBFE}"
+      DTS:ObjectName="PWD">
+      <DTS:Property
+        DTS:DataType="8"
+        DTS:Name="ParameterValue">@ptl*1qaz`123*$#</DTS:Property>
+    </DTS:PackageParameter>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="8"
+      DTS:DTSID="{2393D32D-BF28-455B-A12C-4083F08E01E4}"
+      DTS:ObjectName="SQLServer">
+      <DTS:Property
+        DTS:DataType="8"
+        DTS:Name="ParameterValue">123.200.23.58\MSSQL2K14</DTS:Property>
+    </DTS:PackageParameter>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="8"
+      DTS:DTSID="{6B74A50D-41A0-4458-A7BC-6694DCBC8D90}"
+      DTS:ObjectName="UserID">
+      <DTS:Property
+        DTS:DataType="8"
+        DTS:Name="ParameterValue">SA</DTS:Property>
     </DTS:PackageParameter>
   </DTS:PackageParameters>
   <DTS:Variables>
@@ -276,7 +309,7 @@
       DTS:CreationName=""
       DTS:DTSID="{75BBEC94-E25A-46AA-AFA2-D25043999386}"
       DTS:EvaluateAsExpression="True"
-      DTS:Expression="@[User::Basefolderpath]+ &quot;\\&quot;+@[User::LocalPathWithBaseFolder]"
+      DTS:Expression="@[$Package::Basefolderpath] + &quot;\\&quot;+@[User::LocalPathWithBaseFolder]"
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
       DTS:ObjectName="Autocreatedfolderpath">
@@ -287,7 +320,7 @@
       DTS:CreationName=""
       DTS:DTSID="{0CF353D9-C6D3-4112-8378-C8108B8AFBBF}"
       DTS:EvaluateAsExpression="True"
-      DTS:Expression="@[User::Basefolderpath]+ &quot;\\&quot;+ @[User::LocalPathWithBaseFolder2]"
+      DTS:Expression="@[$Package::Basefolderpath] + &quot;\\&quot;+ @[User::LocalPathWithBaseFolder2]"
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
       DTS:ObjectName="Autocreatedfolderpath2">
@@ -298,7 +331,7 @@
       DTS:CreationName=""
       DTS:DTSID="{58D5FE5A-ECB1-4F71-BF63-7BBAAF466138}"
       DTS:EvaluateAsExpression="True"
-      DTS:Expression="@[User::Basefolderpath]+ &quot;\\&quot;+ @[User::LocalPathWithBaseFolder3]"
+      DTS:Expression="@[$Package::Basefolderpath] + &quot;\\&quot;+ @[User::LocalPathWithBaseFolder3]"
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
       DTS:ObjectName="Autocreatedfolderpath3">
@@ -309,7 +342,7 @@
       DTS:CreationName=""
       DTS:DTSID="{D8840D61-5ACC-48D5-ABF8-4673CD9B84D3}"
       DTS:EvaluateAsExpression="True"
-      DTS:Expression="@[User::Basefolderpath]+ &quot;\\&quot;+ @[User::LocalPathWithBaseFolder4]"
+      DTS:Expression="@[$Package::Basefolderpath] + &quot;\\&quot;+ @[User::LocalPathWithBaseFolder4]"
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
       DTS:ObjectName="Autocreatedfolderpath4">
@@ -320,7 +353,7 @@
       DTS:CreationName=""
       DTS:DTSID="{C919EDF3-FCB1-4573-8185-B77B78EB5B85}"
       DTS:EvaluateAsExpression="True"
-      DTS:Expression="@[User::Basefolderpath]+ &quot;\\&quot;+ @[User::LocalPathWithBaseFolder5]"
+      DTS:Expression="@[$Package::Basefolderpath] + &quot;\\&quot;+ @[User::LocalPathWithBaseFolder5]"
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
       DTS:ObjectName="Autocreatedfolderpath5">
@@ -350,7 +383,7 @@
       DTS:CreationName=""
       DTS:DTSID="{03BC2834-361C-4FB3-A57D-37CA0610679B}"
       DTS:EvaluateAsExpression="True"
-      DTS:Expression="&quot;Provider=sqloledb;Data Source=&quot;+ @[User::SQLServer] +&quot;;Initial Catalog=&quot;+ @[User::DatabaseName] +&quot;;User Id=&quot;+ @[User::UserID] +&quot;;Password=&quot;+ @[User::PWD] +&quot;;&quot;"
+      DTS:Expression="&quot;Provider=sqloledb;Data Source=&quot;+@[$Package::SQLServer]+&quot;;Initial Catalog=&quot;+ @[$Package::DatabaseName] +&quot;;User Id=&quot;+ @[$Package::UserID] +&quot;;Password=&quot;+ @[$Package::PWD] +&quot;;&quot;"
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
       DTS:ObjectName="ConnectionString">
@@ -741,7 +774,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Folders &amp; Files 1"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -769,7 +802,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Folders &amp; Files 2"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -797,7 +830,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Folders &amp; Files 3"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="3">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -825,7 +858,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Folders &amp; Files 4"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="3">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -994,7 +1027,7 @@
               DTS:LocaleID="-1"
               DTS:ObjectName="File System Task"
               DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="1">
+              DTS:ThreadHint="0">
               <DTS:Variables />
               <DTS:ObjectData>
                 <FileSystemData
@@ -1013,7 +1046,7 @@
               DTS:LocaleID="-1"
               DTS:ObjectName="FTP Task"
               DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="1">
+              DTS:ThreadHint="0">
               <DTS:Variables />
               <DTS:ObjectData>
                 <FtpData
@@ -1088,7 +1121,7 @@
               DTS:LocaleID="-1"
               DTS:ObjectName="File System Task"
               DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="2">
+              DTS:ThreadHint="1">
               <DTS:Variables />
               <DTS:ObjectData>
                 <FileSystemData
@@ -1107,7 +1140,7 @@
               DTS:LocaleID="-1"
               DTS:ObjectName="FTP Task"
               DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="2">
+              DTS:ThreadHint="1">
               <DTS:Variables />
               <DTS:ObjectData>
                 <FtpData
@@ -1181,7 +1214,7 @@
               DTS:LocaleID="-1"
               DTS:ObjectName="File System Task"
               DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="3">
+              DTS:ThreadHint="2">
               <DTS:Variables />
               <DTS:ObjectData>
                 <FileSystemData
@@ -1200,7 +1233,7 @@
               DTS:LocaleID="-1"
               DTS:ObjectName="FTP Task"
               DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="3">
+              DTS:ThreadHint="2">
               <DTS:Variables />
               <DTS:ObjectData>
                 <FtpData
@@ -1274,7 +1307,7 @@
               DTS:LocaleID="-1"
               DTS:ObjectName="File System Task"
               DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="0">
+              DTS:ThreadHint="3">
               <DTS:Variables />
               <DTS:ObjectData>
                 <FileSystemData
@@ -1293,7 +1326,7 @@
               DTS:LocaleID="-1"
               DTS:ObjectName="FTP Task"
               DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-              DTS:ThreadHint="0">
+              DTS:ThreadHint="3">
               <DTS:Variables />
               <DTS:ObjectData>
                 <FtpData
@@ -1474,15 +1507,6 @@
               Language="CSharp"
               ReadOnlyVariables="User::COMCOD,User::FTP_PATH,User::ID,$Package::FTPPassword,$Package::FTPServer,$Package::FTPUsername"
               ReadWriteVariables="User::LATESTBK,User::LATESTBKCOUNT,User::LATESTMAXBK,User::TOTALFILE,User::UPLDATE">
-              <ProjectItem
-                Name="Properties\Settings.settings"
-                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.resx"
                 Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -1688,6 +1712,35 @@
     </VisualStudio>
   </ProjectExtensions>
 </Project>]]></ProjectItem>
+              <ProjectItem
+                Name="Properties\Settings.Designer.cs"
+                Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_cc62fe23f4ba412b9f8f35c2c1ae872b.Properties.Settings.get_Default():ST_cc62fe23f4ba412b9f8f35c2c1ae872b.Properties.Sett" +
+    "ings")]
+
+namespace ST_cc62fe23f4ba412b9f8f35c2c1ae872b.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
               <ProjectItem
                 Name="ScriptMain.cs"
                 Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -1912,35 +1965,6 @@ namespace ST_cc62fe23f4ba412b9f8f35c2c1ae872b
   </msb:ItemGroup>
 </c:Project>]]></ProjectItem>
               <ProjectItem
-                Name="Properties\Settings.Designer.cs"
-                Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_cc62fe23f4ba412b9f8f35c2c1ae872b.Properties.Settings.get_Default():ST_cc62fe23f4ba412b9f8f35c2c1ae872b.Properties.Sett" +
-    "ings")]
-
-namespace ST_cc62fe23f4ba412b9f8f35c2c1ae872b.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
-              <ProjectItem
                 Name="Properties\AssemblyInfo.cs"
                 Encoding="UTF8"><![CDATA[using System.Reflection;
 using System.Runtime.CompilerServices;
@@ -1970,6 +1994,15 @@ using System.Runtime.CompilerServices;
 // by using the '*' as shown below:
 
 [assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+              <ProjectItem
+                Name="Properties\Settings.settings"
+                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.Designer.cs"
                 Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
